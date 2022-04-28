@@ -15,3 +15,16 @@ Aula dia 26/04
 Aula dia 27/04
 -Revisamos codigos do Git e do Prompt comando;
 -Clonamos e editamos arquivo Readme dos colegas.
+
+                      Codigos Github
+ git add . = Insere uma alteração no repositório local; 
+ git commit -m "nome alteracao" = Data de fechamento com a descrição da definição;
+ git push = envia do repositorio local para a nuvem (github.com); 
+ git pull = baixar as mudanças (ou verificar se foram alterados). 
+
+                      Codigos Prompt de Comando
+mkdir – Criar uma nova pasta no diretório;
+cp – Copia arquivos e diretórios;
+cd .. - Sair da pasta atual;
+cd nomepasta - abrir pasta. 
+
