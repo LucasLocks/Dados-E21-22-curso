@@ -35,23 +35,27 @@ Aula dia 28/04
   -Se sim:
    -Em casa ou no local?
     -Se em casa:
-     -ligo Para Pizzaria;
-     -Informo meu Pedido e minhas informaçoes (endereco,nome,etc);
-     -aguardo a Pizza chegar;
+     -ligo para pizzaria;
+     -Informo meu pedido e minhas informaçoes (endereco,nome,etc);
+     -aguardo a pizza chegar;
+      -Enquanto aguardo:
+       -Assisto Tv
      -Pizza chegou;
-     -Pago a Pizza,
-     -Como a Pizza.
+     -Pago a pizza,
+     -Como a pizza.
     -Se no local:
-     -Ir ate Pizzaria;
-     -Pedir cardaPio;
-     -escolher sabores Pizza;
-     -aguardar Pizza ficar Pronta;
+     -Ir ate pizzaria;
+     -Pedir cardapio;
+     -escolher sabores pizza;
+     -aguardar pizza ficar pronta;
+      -Enquanto aguardo:
+       -Ficar mexendo celular.
      -Pizza Pronta;
-     -garcon trouxe a Pizza;
-     -comer Pizza.   
+     -garcon trouxe a pizza;
+     -comer pizza.   
 
   -Se nao: 
-   -Fico sem Pizza. 
+   -Fico sem pizza. 
 
 
 
