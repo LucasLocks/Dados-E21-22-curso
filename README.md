@@ -33,12 +33,22 @@ Aula dia 28/04
  -Algoritmo Comer Pizza:
   -Tenho dinheiro? 
   -Se sim:
-   -ligo Para Pizzaria;
-   -Informo meu Pedido e minhas informaçoes (endereco,nome,etc);
-   -aguardo a Pizza chegar;
-   -Pizza chegou;
-   -Pago a Pizza,
-   -Como a Pizza.
+   -Em casa ou no local?
+    -Se em casa:
+     -ligo Para Pizzaria;
+     -Informo meu Pedido e minhas informaçoes (endereco,nome,etc);
+     -aguardo a Pizza chegar;
+     -Pizza chegou;
+     -Pago a Pizza,
+     -Como a Pizza.
+    -Se no local:
+     -Ir ate Pizzaria;
+     -Pedir cardaPio;
+     -escolher sabores Pizza;
+     -aguardar Pizza ficar Pronta;
+     -Pizza Pronta;
+     -garcon trouxe a Pizza;
+     -comer Pizza.   
 
   -Se nao: 
    -Fico sem Pizza. 
