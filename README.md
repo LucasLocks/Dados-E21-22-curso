@@ -26,5 +26,23 @@ Aula dia 27/04
 mkdir – Criar uma nova pasta no diretório;
 cp – Copia arquivos e diretórios;
 cd .. - Sair da pasta atual;
-cd nomepasta - abrir pasta. 
+nomepasta - abrir pasta.
+
+Aula dia 28/04
+-Logica de Programacao;
+ -Algoritmo Comer Pizza:
+  -Tenho dinheiro? 
+  -Se sim:
+   -ligo Para Pizzaria;
+   -Informo meu Pedido e minhas informaçoes (endereco,nome,etc);
+   -aguardo a Pizza chegar;
+   -Pizza chegou;
+   -Pago a Pizza,
+   -Como a Pizza.
+
+  -Se nao: 
+   -Fico sem Pizza. 
+
+
+
 
