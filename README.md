@@ -1,4 +1,10 @@
 # Dados-E21-22-curso
+Mini Curriculo Aluno:
+Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando Tecnico em Mecatronica, Engenharia Mecanica e estou participando do programa de capacitacao ENTRA 21-22.
+
+Mini Curriculo Instrutor Entra 21-22:
+-Adriano Machado, 47 anos, Campo Grande, MS, Gestor de Tecnologia da Informação e Instrutor de Linguagens de Programação.
+
 Aulas até o dia 25/04
 -Instalei Vscode;
 -Aprendemos metodo Scrum e Kanban;
@@ -57,6 +63,7 @@ Aula dia 28/04
   -Se nao: 
    -Fico sem pizza. 
 
-
-
+Aula dia 29/04
+-Introducao a Logica;
+-Introducao a IDE. 
 
