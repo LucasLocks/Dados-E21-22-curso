@@ -1,40 +1,40 @@
 # Dados-E21-22-curso
-Mini Curriculo Aluno:
+**Mini Curriculo Aluno:**
 Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando Tecnico em Mecatronica, Engenharia Mecanica e estou participando do programa de capacitacao ENTRA 21-22.
 
-Mini Curriculo Instrutor Entra 21-22:
+**Mini Curriculo Instrutor Entra 21-22:**
 -Adriano Machado, 47 anos, Campo Grande, MS, Gestor de Tecnologia da Informação e Instrutor de Linguagens de Programação.
 
-Aulas até o dia 25/04
--Instalei Vscode;
--Aprendemos metodo Scrum e Kanban;
--Criamos conta Github;
+**Aulas até o dia 25/04**
+-Instalei Vscode;/n
+-Aprendemos metodo Scrum e Kanban;/n
+-Criamos conta Github;/n
 -Criei meu 1° repositorio github.
 
-Aula dia 26/04
+**Aula dia 26/04**
 -Sincronizar repositorio github;
 -Instalar github desktop;
 -Instalar git;
 -Criei Arquivo Readme;
 -Clonar arquivo Readme do colega.
 
-Aula dia 27/04
+**Aula dia 27/04**
 -Revisamos codigos do Git e do Prompt comando;
 -Clonamos e editamos arquivo Readme dos colegas.
 
-                      Codigos Github
+   **Codigos Github**
  git add . = Insere uma alteração no repositório local; 
  git commit -m "nome alteracao" = Data de fechamento com a descrição da definição;
  git push = envia do repositorio local para a nuvem (github.com); 
  git pull = baixar as mudanças (ou verificar se foram alterados). 
 
-                      Codigos Prompt de Comando
+   **Codigos Prompt de Comando**
 mkdir – Criar uma nova pasta no diretório;
 cp – Copia arquivos e diretórios;
 cd .. - Sair da pasta atual;
 nomepasta - abrir pasta.
 
-Aula dia 28/04
+**Aula dia 28/04**
 -Logica de Programacao;
  -Algoritmo Comer Pizza:
   -Tenho dinheiro? 
@@ -63,7 +63,9 @@ Aula dia 28/04
   -Se nao: 
    -Fico sem pizza. 
 
-Aula dia 29/04
+**Aula dia 29/04**
 -Introducao a Logica;
--Introducao a IDE. 
+-Introducao a IDE.
 
+**Aula dia 02/05**
+-
