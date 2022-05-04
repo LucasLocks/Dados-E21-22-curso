@@ -1,4 +1,9 @@
 # Dados-E21-22-curso
+# Autor: Lucas Locks
+# Status: Desenvolvimento
+# Objetivo: Desenvolver arquivo Readme com resumo das aulas durante o treinamento.
+# Ferramentas: Git, Github, Vscode
+
 **Mini Curriculo Aluno:**
 Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando Tecnico em Mecatronica, Engenharia Mecanica e estou participando do programa de capacitacao ENTRA 21-22.
 
@@ -7,7 +12,9 @@ Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando T
 
 **Aulas até o dia 25/04**
 -Instalei Vscode;
--Aprendemos metodo Scrum e Kanban;
+-Frameworks Agéis:
+ -Scrum;
+ -Kanban;
 -Criamos conta Github;
 -Criei meu 1° repositorio github.
 
@@ -70,4 +77,10 @@ nomepasta - abrir pasta.
 **Aula dia 02/05**
 -Phyton;
  -Como fazer comentarios;
- -Variaveis e Constantes;
+ -Variaveis e constantes;
+-Garbage Collector;
+-Identação;
+
+ **Aula dia 03/05**      
+ -Divisão de equipes;
+ -Revisão de Git e Github;             
