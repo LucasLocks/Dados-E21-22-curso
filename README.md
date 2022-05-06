@@ -33,7 +33,7 @@ Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando T
  git add . = Insere uma alteração no repositório local; 
  git commit -m "nome alteração" = Data de fechamento com a descrição da definição;
  git push = envia do repositório local para a nuvem (github.com); 
- git pull = baixar as mudanças (ou verificar se foram alterados). 
+ git pull = baixar as mudanças (ou verificar se foram alterados).
 
    **Codigos Prompt de Comando**
 mkdir – Criar uma nova pasta no diretório;
@@ -67,8 +67,8 @@ nomepasta - abrir pasta.
      -garçon trouxe a pizza;
      -comer pizza.   
 
-  -Se não: 
-   -Fico sem pizza. 
+  -Se não:
+   -Fico sem pizza.
 
 **Aula dia 29/04**
 -Introdução a Lógica;
@@ -93,4 +93,8 @@ nomepasta - abrir pasta.
     -Maioridade Penal;
     -Altura Média;
     -Loja de Ferramentas;
-    -Quantos dias. 
+    -Quantos dias.
+  
+ **Aula dia 06/05**
+ -
+  
