@@ -1,0 +1,31 @@
+#Autor: Lucas Locks
+#Data: 06/05/2022
+
+//Elabore um algoritmo que receba dois numeros pelo teclado e compare se os numeros são iguais
+//- A < B 
+//- B < A 
+//E informe ao usuário. 
+
+programa {
+  funcao inicio() {
+    real n1,n2
+    escreva("digite o primeiro numero: ")
+    leia(n1)
+    escreva("Digite o segundo número: ")
+    leia(n2)
+
+    se (n1 == n2)
+{
+    escreva("Os números são iguais !")
+}
+    senao se (n1 < n2)
+{    
+    escreva(n1, " é menor que ", n2)
+}
+    senao se (n2 < n1)
+{    
+    escreva(n2, " é menor que ", n1)
+}
+
+  }
+}

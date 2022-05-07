@@ -96,5 +96,6 @@ nomepasta - abrir pasta.
     -Quantos dias.
   
  **Aula dia 06/05**
- -
+ -Exercícios Portugol
+  -[exercício01](exemplos/exercicio_001.portugol)
   
