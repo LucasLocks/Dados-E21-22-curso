@@ -1,7 +1,9 @@
-#Exercício 003
+#Autor: Lucas Locks
+#Data: 06/05/2022
 
-Elabore um algoritmo que recebe o salario bruto de um funcionario e 
-calcule o desconto de INSS de acordo com a sua faixa salarial:
+
+//Elabore um algoritmo que recebe o salario bruto de um funcionario e 
+//calcule o desconto de INSS de acordo com a sua faixa salarial:
 
 < 1000 5% desconto
 < 2000 7% desconto 
