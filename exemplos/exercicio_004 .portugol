@@ -17,7 +17,14 @@ programa
 	funcao inicio()
 	{
 		real a, b, mult
-		
+		mult = 1
+        
+    {
+
+        enquanto (mult < 1000 ou mult > 1000) // tive um problema com o sinal de igual quando o resultado passava de mil, então adequei o tratamento.
+        
+        {
+
 		escreva("Digite o primeiro número: ")
 		leia(a)
 
@@ -26,8 +33,23 @@ programa
 
 		mult = a * b // Multiplica os dois valores
 
-		escreva("\nA multiplicação dos números é igual a: ", mult) 	// Exibe o resultado da multiplicação
+        se (mult < 1000 ou mult > 1000)
+        {
+        escreva ("Resultado da multiplicação ainda é diferente de mil. Digite novamente! \n")
+        }
 
-        	
-	}
+
+        }
+
+           
+        {
+        escreva("\n Parabéns! \n A multiplicação dos números é igual a: ", mult) 	// Exibe o resultado da multiplicação quando o valor é igual a mil.
+        }
+
+       
+        }
+
+    }
+
+    }
 }
