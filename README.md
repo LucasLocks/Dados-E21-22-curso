@@ -1,8 +1,12 @@
 # Dados-E21-22-curso
-# Autor: Lucas Locks
-# Status: Desenvolvimento
-# Objetivo: Desenvolver arquivo Readme com resumo das aulas durante o treinamento.
-# Ferramentas: Git, Github, Vscode
+
+//**Autor: Lucas Locks**
+
+//**Status: Desenvolvimento**
+
+//**Objetivo: Desenvolver arquivo Readme com resumo das aulas durante o treinamento.**
+
+## Ferramentas: Git, Github, Vscode
 
 **Mini Curriculo Aluno:**
 Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando Técnico em Mecatrônica, Engenharia Mecânica e estou participando do programa de capacitação ENTRA 21-22.
@@ -12,7 +16,7 @@ Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando T
 
 **Aulas até o dia 25/04**
 -Instalei Vscode;
--Frameworks Agéis:
+-Frameworks Ágeis:
  -Scrum;
  -Kanban;
 -Criar conta Github;
@@ -29,22 +33,22 @@ Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando T
 -Revisamos códigos do Git e do Prompt comando;
 -Clonamos e editamos arquivo Readme dos colegas.
 
-   **Codigos Github**
- git add . = Insere uma alteração no repositório local; 
+   **Códigos Github**
+ git add . = Insere uma alteração no repositório local;
  git commit -m "nome alteração" = Data de fechamento com a descrição da definição;
- git push = envia do repositório local para a nuvem (github.com); 
+ git push = envia do repositório local para a nuvem (github.com);
  git pull = baixar as mudanças (ou verificar se foram alterados).
 
-   **Codigos Prompt de Comando**
+   **Códigos Prompt de Comando**
 mkdir – Criar uma nova pasta no diretório;
 cp – Copia arquivos e diretórios;
 cd .. - Sair da pasta atual;
-nomepasta - abrir pasta.
+nome pasta - abrir pasta.
 
 **Aula dia 28/04**
 -Lógica de Programação;
  -Algoritmo Comer Pizza:
-  -Tenho dinheiro? 
+  -Tenho dinheiro?
   -Se sim:
    -Em casa ou no local?
     -Se em casa:
@@ -65,7 +69,7 @@ nomepasta - abrir pasta.
        -Ficar mexendo celular.
      -Pizza Pronta;
      -garçon trouxe a pizza;
-     -comer pizza.   
+     -comer pizza.
 
   -Se não:
    -Fico sem pizza.
@@ -75,18 +79,18 @@ nomepasta - abrir pasta.
 -Introdução a IDE.
 
 **Aula dia 02/05**
--Phyton;
+-Python;
  -Como fazer comentários;
  -Variáveis e constantes;
 -Garbage Collector;
--Identação;
+-Edentação;
 
- **Aula dia 03/05**      
+ **Aula dia 03/05**
  -Divisão de equipes;
  -Revisão de Git e Github;
 
  **Aula dia 05/05**
- -Portugol (https://portugol-webstudio.cubos.io/ide)
+ -[Portugol](https://portugol-webstudio.cubos.io/ide)
   -Algoritmos Sequenciais:
    -Exemplos:
     -Troca variáveis;
@@ -97,6 +101,13 @@ nomepasta - abrir pasta.
   
  **Aula dia 06/05**
  -Exercícios Portugol
-  -[exercício01](exemplos/exercicio_001.portugol)
-  -[exercício02](exemplos/exercicio_002.portugol)
+  -[exercício01](exemplos/exercício_001.portugol)
+  -[exercício02](exemplos/exercício_002.portugol)
+  -[exercício03](exemplos/exercício_003.portugol)  
+  -[exercício04](exemplos/exercício_004.portugol)
+
+  **Aula dia 09/05**
+  -Revisão exercícios Portugol;
+  -Laços de repetição;
+  -Exercício 5 portugol.
   

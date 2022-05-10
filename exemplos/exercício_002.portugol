@@ -1,13 +1,13 @@
 #Autor: Lucas Locks
 #Data: 06/05/2022
 
-//Elabore um algoritmo que receba dois numeros pelo teclado e compare se os numeros são iguais
+//Elabore um algoritmo que receba dois números pelo teclado e compare se os números são iguais
 //- A < B 
 //- B < A 
 //E informe ao usuário. 
 
 programa {
-  funcao inicio() {
+  função inicio() {
     real n1,n2
     escreva("digite o primeiro numero: ")
     leia(n1)
@@ -18,11 +18,11 @@ programa {
 {
     escreva("Os números são iguais !")
 }
-    senao se (n1 < n2)
+    senão se (n1 < n2)
 {    
     escreva(n1, " é menor que ", n2)
 }
-    senao se (n2 < n1)
+    senão se (n2 < n1)
 {    
     escreva(n2, " é menor que ", n1)
 }

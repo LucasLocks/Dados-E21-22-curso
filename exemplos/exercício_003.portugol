@@ -1,0 +1,53 @@
+#Autor: Lucas Locks
+#Data: 09/05/2022
+
+
+//Elabore um algoritmo que recebe o salario bruto de um funcionário e 
+//calcule o desconto de INSS de acordo com a sua faixa salarial:
+
+< 1000 5% desconto
+< 2000 7% desconto 
+< 4000 9% desconto
+> 10000 10% desconto.
+
+programa
+{
+	função inicio()
+	{
+		real salario
+		inteiro desc
+
+
+		escreva("Digite o salário: ")
+		leia(salario)
+
+		
+		se (salario <= 1000)
+		{
+            escreva ("Salário de: ", salario, " Desconto de 5% ")
+		}   
+
+        senão se (salario <= 2000)
+		{
+		    escreva ("Salário de: ", salario, " Desconto de 7% ")
+		}   
+
+        senão se (salario <= 4000)
+		{
+		    escreva ("Salário de: ", salario, " Desconto de 9% ")
+		}   
+
+         senão se (salario <= 10000)
+		{
+		    escreva ("Salário de: ", salario, " Desconto de 10% ")
+		}   
+
+         senão se (salario > 10000)
+		{
+		    escreva ("Salário de: ", salario, " Desconto de 11% ")
+		}   
+
+
+        	
+	}
+}

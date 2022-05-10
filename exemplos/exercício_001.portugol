@@ -1,0 +1,40 @@
+#Autor: Lucas Locks
+#Data: 06/05/2022
+
+#Este algoritmo calcula a área de um terreno em m².
+
+programa {
+  função inicio() 
+  {
+    real lateral, frente, multi
+    
+    escreva("Informe a frente da sua terra em metros: ")
+    leia(frente)
+
+    escreva("Informe a lateral da sua terra em metros: ")
+    leia(lateral)
+
+    multi = frente * lateral
+
+    se (multi <= 1000)
+    {
+    escreva("\nA área da sua terra é de ", multi, (" metros quadrados, sendo considerada um TERRENO")
+    }
+
+    senão se (multi <= 5000)
+    {
+    escreva("\nA área da sua terra é de ", multi, (" metros quadrados, sendo considerada um SÍTIO")
+    }
+
+    senão se (multi <= 10000)
+    {
+    escreva("\nA área da sua terra é de ", multi, (" metros quadrados, sendo considerada um HECTARE DE TERRA")
+    }
+
+    senão se (multi > 10000)
+    {
+    escreva("\nA área da sua terra é de ", multi, (" metros quadrados, sendo considerada uma FAZENDA")
+    }
+
+  }
+}

@@ -1,0 +1,39 @@
+#Autor: Lucas Locks
+#Data: 09/05/2022
+#Exercício: Laço de Repetição
+
+#Versão 001: 
+
+- Crie um algoritmo que receba 2 números, 
+- multiplique o resultados de AxB.
+- Imprima o resultado na tela 
+
+# Versão 002:
+- adicione um laço de repetição para todo o algoritmo que seja executado 
+até que a multiplicação resulte em 1000
+- ao sair informe o usuário que o resultado é igual a 1000 e aborte o laço. 
+- utilize o recurso de funções() para este Exercício
+
+programa
+{
+	função inicio()
+	{
+		real a, b, multi
+		multi = 1
+        
+    {
+
+        enquanto (multi != 1000) 
+        
+        {
+		escreva("Digite o primeiro número: ")
+		leia(a)
+
+		escreva("Digite o segundo número: ")
+		leia(b)
+		multi = a * b // Multiplica os dois valores
+        }   
+        escreva("\n Parabéns! \n A multiplicação dos números é igual a: ", multi) 	// Exibe o resultado da multiplicação quando o valor é igual a mil.
+    }
+    }
+}
