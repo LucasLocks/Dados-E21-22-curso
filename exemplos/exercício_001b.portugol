@@ -1,0 +1,102 @@
+
+#Exercício: 001b: Versão 001.
+
+    Calcule a area de um retângulo.
+    Sem solicitar dados ao usuário.
+    Para isto defina as variáveis: ladoA, LadoB, resultado. 
+    Imprima o resultado.
+
+programa {
+  função inicio() {
+    inteiro ladoA, ladoB
+    real resultado
+
+     ladoA = 50
+     ladoB = 80
+     resultado = ladoA ** ladoB
+
+     escreva("A area do retângulo é de: ", resultado)
+  }
+}
+
+
+#Exercício: 001b: versão 002.
+
+    Calculo o perímetro de um retângulo.
+    Utilize as mesmas variáveis da versão 001.
+
+programa {
+  função inicio() {
+    inteiro ladoA, ladoB
+    real resultado, perímetro
+
+     ladoA = 50
+     ladoB = 80
+     resultado = ladoA ** ladoB
+     perímetro = 2 * ( ladoA + ladoB )
+
+
+     escreva("A area do retângulo é de: ", resultado)
+     escreva("\nO Perímetro do retângulo é de: ", perímetro)
+  }
+}
+
+
+#Exercício: 001b: versão 003.
+
+    Solicite os dados do usuário para calcular os dados do retângulo.
+    Utilize as mesmas variáveis. 
+    Imprima o resultado da área do retângulo e o perímetro do retângulo.
+
+programa {
+  função inicio() {
+    real ladoA, ladoB, resultado, perímetro
+     escreva("Digite o tamanho de ladoA: ")
+     leia(ladoA)
+     escreva("Digite o tamanho de ladoB: ")
+     leia(ladoB)
+     resultado = ladoA ** ladoB
+     perímetro = 2 * ( ladoA + ladoB )
+
+
+     escreva("A area do retângulo é de: ", resultado)
+     escreva("\nO Perímetro do retângulo é de: ", perímetro)
+  }
+}
+
+
+#Exercício: 001b: versão 004. 
+
+    Adicione uma condicional simples. 
+    Utilize os resultados acima e faça o seguinte teste:
+    Informe em uma condicional simples quem é maior, perímetro ou a area. 
+    (vamos desconsiderar as unidades m2 e milenar), apenas pensar nas unidades.
+
+programa {
+  função inicio() {
+    real ladoA, ladoB, perímetro, area
+     escreva("Digite o tamanho de ladoA: ")
+     leia(ladoA)
+     escreva("Digite o tamanho de ladoB: ")
+     leia(ladoB)
+     area = ladoA ** ladoB
+     perímetro = 2 * ( ladoA + ladoB )
+
+
+     escreva("A area do retângulo é de: ", area)
+     escreva("\nO Perímetro do retângulo é de: ", perímetro)
+
+     se (area > perímetro)
+     {
+        escreva("\nA area de ", area, (" é maior que o perímetro de "), perímetro")
+     }
+     senão se (perímetro > area)
+     {
+        escreva("\nO perímetro de ", perímetro, (" é maior que a area de "), area")
+     }
+     senão
+     {
+        escreva("A area e o perímetro são iguais!!")
+     }
+  }
+}

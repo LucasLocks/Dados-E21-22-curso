@@ -110,4 +110,12 @@ nome pasta - abrir pasta.
   -Revisão exercícios Portugol;
   -Laços de repetição;
   -Exercício 5 portugol.
+
+  **Aula dia 10/05**
+  -Exercícios Portugol
+   -[exercício01b](exemplos/exercício_001b.portugol)
+   -[exercício02b](exemplos/exercício_002b.portugol)
+   -[exercício03b](exemplos/Exercício_003b.portugol)
+   -[exercício04b](exemplos/exercício_004b.portugol)
+   -[exercício05b](exemplos/exercício_005b.portugol)
   

@@ -1,0 +1,20 @@
+#Exercício 002b: versão1
+
+    Receba os dados de duas variáveis. 
+    Imprimir o resultado da multiplicação das duas variáveis. 
+    Calcule a raiz quadrada do resultado e imprima. 
+
+programa {
+inclua biblioteca Matemática -->mat
+  função inicio() {
+    real a, b, raiz, multi
+    escreva("Digite o valor de A: ")
+    leia(a)
+    escreva("Digite o valor de B: ")
+    leia(b)
+    multi = a * b 
+    escreva(a, " X ", b, " = ", multi.)
+    raiz = mat.raiz(multi, 2.0)
+    escreva("\nA raiz quadrada de ", multi, " é ", raiz)
+  }
+}

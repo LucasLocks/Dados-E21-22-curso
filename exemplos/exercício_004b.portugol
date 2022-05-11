@@ -1,0 +1,18 @@
+#Exercício 004 - versão 001.
+
+
+    Crie uma função que imprima uma mensagem ao ser chamada.
+
+programa  
+{  
+    função idade_12()  
+    {  
+        escreva("Digite sua idade: ") 
+    }   
+    função inicio()  
+    {  
+       inteiro idade_12()
+       idade_12()  
+       leia(idade_12)
+    }
+}

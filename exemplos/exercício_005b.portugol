@@ -1,0 +1,28 @@
+# Exercício 005b
+
+    Solicite ao usuário informar um numero inteiro entre 1 e 3
+    utilize case para imprimir Maça, para 1, Pera para 2, e Melancia para 3. 
+
+programa {
+  função inicio() {
+    inteiro fruta
+    escreva("Escolha uma fruta:\n1- Maça\n2- Pera\n3- Melancia")
+    escreva("\nQual sua escolha: ")
+    leia(fruta)
+
+    escolha (fruta)
+    {
+        caso 1:
+            escreva("\nVocê escolheu Maça")
+        pare
+
+        caso 2:
+            escreva("\nVocê escolheu Pera")
+        pare
+
+        caso 3:
+            escreva("\nVocê escolheu Melancia")
+        pare
+    }
+  }
+}
