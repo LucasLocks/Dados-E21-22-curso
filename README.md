@@ -6,7 +6,7 @@
 
 //**Objetivo: Desenvolver arquivo Readme com resumo das aulas durante o treinamento.**
 
-## Ferramentas: Git, Github, Vscode
+//**Ferramentas: Git, Github, Vscode**
 
 **Mini Curriculo Aluno:**
 Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando Técnico em Mecatrônica, Engenharia Mecânica e estou participando do programa de capacitação ENTRA 21-22.
@@ -118,4 +118,12 @@ nome pasta - abrir pasta.
    -[exercício03b](exemplos/Exercício_003b.portugol)
    -[exercício04b](exemplos/exercício_004b.portugol)
    -[exercício05b](exemplos/exercício_005b.portugol)
-  
+
+   **Aula Magna 11/05**
+    -Foi mostrado o grande número de inscritos no Entra-21-22 e como os alunos atuais foram sortudos de serem selecionados. A cada vaga do treinamento, +/- 12 pessoas competiam pela mesma;
+    -Motivação aos alunos do Entra-21;
+    -Dois ex-alunos do Entra 21 contando suas história de vida, um deles trabalha na Ambev Tech e o outro é gerente da Unifique;
+    -Apresentação da Carol Renaux sobre Marketing e padrão de perfil das redes sociais;
+
+   **Aula dia 12/05**
+   -[exercício06b](exemplos/exercício_006b.portugol)
