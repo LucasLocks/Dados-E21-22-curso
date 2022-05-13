@@ -1,0 +1,38 @@
+/* Descrição:
+ * 
+ * 	Este exemplo cria e preenche um vetor com números aleatórios. Logo após exibe o vetor
+ * 	no console de duas formas diferentes:
+ * 	
+ * 		a) Na ordem em que os números foram preenchidos
+ * 		b) Na ordem inversa em que os números foram preenchidos
+ */
+{
+	inclua biblioteca Util --> util
+	
+	função inicio() 
+	{
+		inteiro vetor[10]
+		
+		// preenche o vetor
+		para (inteiro posição = 0; posição < 10; posição++)
+		{
+			vetor[posição] = util.sorteia(1, 100) // Sorteia um número e atribui à posição do vetor
+		}
+
+		// Exibe o vetor na ordem original
+		escreva ("Vetor na ordem original:\n")
+		
+		para(inteiro posição = 0; posição < 10; posição++)
+		{
+			escreva (vetor[posição], " ")
+		}
+		
+		// Exibe o vetor na ordem inversa
+		escreva ("\n\nVetor na ordem inversa:\n")
+		
+		para(inteiro posição = 9; posição >=0; posição--)
+		{
+			escreva (vetor[posição], " ")
+		}
+	}
+}

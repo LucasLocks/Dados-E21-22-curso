@@ -1,0 +1,87 @@
+# Exercício 006 b Ver 001
+
+    Crie um algoritmo que imprima números aleatórios entre 1 e 100
+
+programa {
+inclua biblioteca Util --> u
+inteiro sorteio
+  função inicio() {
+    escreva("SORTEIO DE NÚMEROS 1 A 100 !!\n")
+    sorteio = u.sorteia(1, 100)
+    escreva("Número sorteado: ", sorteio)
+  }
+}
+
+
+# Exercício 006 b Ver 002
+
+    Crie um algoritmo que conte de 1 a 10 
+
+programa
+{
+	função inicio() 
+	{
+		inteiro contador = 0
+
+		enquanto(contador < 11) 
+		{
+			escreva("\n", contador)
+			contador = contador + 1  
+		}
+	}
+}
+
+
+# Exercício 006 b ver 003 
+
+    Crie um algoritmo que armazene 10 números resultantes da função randômica em 10 variáveis diferentes
+
+programa{
+  inclua biblioteca Util
+
+  função inicio(){
+    inteiro a, b, c, d, e, f, g, h, i, j
+    escreva("Sorteio 10 números de 0 a 100 ! \n")
+    a = Util.sorteia(0, 100)
+    b = Util.sorteia(0, 100)
+    c = Util.sorteia(0, 100)
+    d = Util.sorteia(0, 100)
+    e = Util.sorteia(0, 100)
+    f = Util.sorteia(0, 100)
+    g = Util.sorteia(0, 100)
+    h = Util.sorteia(0, 100)
+    i = Util.sorteia(0, 100)
+    j = Util.sorteia(0, 100)
+    escreva("1° número sorteado: ", a)
+    escreva("\n2° número sorteado: ", b)
+    escreva("\n3° número sorteado: ", c)
+    escreva("\n4° número sorteado: ", d)
+    escreva("\n5° número sorteado: ", e)
+    escreva("\n6° número sorteado: ", f)
+    escreva("\n7° número sorteado: ", g)
+    escreva("\n8° número sorteado: ", h)
+    escreva("\n9° número sorteado: ", i)
+    escreva("\n10° número sorteado: ", j)
+  }
+}
+
+# Exercício 006 b ver 004
+
+    Crie um algoritmo que armazene e imprima 10 números resultantes de uma função randômica utilizando um Vetor
+
+programa{
+  inclua biblioteca Util
+
+  função inicio(){
+    inteiro i, vet[20]
+
+    para(i = 0; i < 10; i++)
+      vet[i] = Util.sorteia(0, 20)
+
+    para(i = 0; i < 10; i++)
+      escreva(vet[i], ", ")
+      escreva("\n")
+  }
+}
+    
+
