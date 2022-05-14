@@ -127,3 +127,6 @@ nome pasta - abrir pasta.
 
    **Aula dia 12/05**
    -[exercício06b](exemplos/exercício_006b.portugol)
+
+   **Aula dia 13/05**
+   -Revisão Exercícios portugol.
