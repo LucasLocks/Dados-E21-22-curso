@@ -33,13 +33,13 @@ Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando T
 -Revisamos códigos do Git e do Prompt comando;
 -Clonamos e editamos arquivo Readme dos colegas.
 
-   **Códigos Github**
+**Códigos Github**
  git add . = Insere uma alteração no repositório local;
  git commit -m "nome alteração" = Data de fechamento com a descrição da definição;
  git push = envia do repositório local para a nuvem (github.com);
  git pull = baixar as mudanças (ou verificar se foram alterados).
 
-   **Códigos Prompt de Comando**
+**Códigos Prompt de Comando**
 mkdir – Criar uma nova pasta no diretório;
 cp – Copia arquivos e diretórios;
 cd .. - Sair da pasta atual;
@@ -70,7 +70,6 @@ nome pasta - abrir pasta.
      -Pizza Pronta;
      -garçon trouxe a pizza;
      -comer pizza.
-
   -Se não:
    -Fico sem pizza.
 
@@ -91,62 +90,62 @@ nome pasta - abrir pasta.
 
  **Aula dia 05/05**
  -[Portugol](https://portugol-webstudio.cubos.io/ide)
-  -Algoritmos Sequenciais:
-   -Exemplos:
-    -Troca variáveis;
-    -Maioridade Penal;
-    -Altura Média;
-    -Loja de Ferramentas;
-    -Quantos dias.
+ -Algoritmos Sequenciais:
+  -Exemplos:
+   -Troca variáveis;
+   -Maioridade Penal;
+   -Altura Média;
+   -Loja de Ferramentas;
+   -Quantos dias.
   
  **Aula dia 06/05**
- -Exercícios Portugol
+ -Exercícios Portugol:
   -[exercício01](exemplos/exercício_001.portugol)
   -[exercício02](exemplos/exercício_002.portugol)
   -[exercício03](exemplos/exercício_003.portugol)  
   -[exercício04](exemplos/exercício_004.portugol)
 
-  **Aula dia 09/05**
-  -Revisão exercícios Portugol;
-  -Laços de repetição;
-  -[exercício05](exemplos/exercício_005.portugol)
+ **Aula dia 09/05**
+ -Revisão exercícios Portugol;
+ -Laços de repetição;
+ -[exercício05](exemplos/exercício_005.portugol)
 
-  **Aula dia 10/05**
-  -Exercícios Portugol
-   -[exercício01b](exemplos/exercício_001b.portugol)
-   -[exercício02b](exemplos/exercício_002b.portugol)
-   -[exercício03b](exemplos/Exercício_003b.portugol)
-   -[exercício04b](exemplos/exercício_004b.portugol)
-   -[exercício05b](exemplos/exercício_005b.portugol)
+ **Aula dia 10/05**
+ -Exercícios Portugol:
+  -[exercício01b](exemplos/exercício_001b.portugol)
+  -[exercício02b](exemplos/exercício_002b.portugol)
+  -[exercício03b](exemplos/Exercício_003b.portugol)
+  -[exercício04b](exemplos/exercício_004b.portugol)
+  -[exercício05b](exemplos/exercício_005b.portugol)
 
-   **Aula Magna 11/05**
-    -Foi mostrado o grande número de inscritos no Entra-21-22 e como os alunos atuais foram sortudos de serem selecionados. A cada vaga do treinamento, +/- 12 pessoas competiam pela mesma;
-    -Motivação aos alunos do Entra-21;
-    -Dois ex-alunos do Entra 21 contando suas história de vida, um deles trabalha na Ambev Tech e o outro é gerente da Unifique;
-    -Apresentação da Carol Renaux sobre Marketing e padrão de perfil das redes sociais;
+ **Aula Magna 11/05**
+ -Foi mostrado o grande número de inscritos no Entra-21-22 e como os alunos atuais foram sortudos de serem selecionados. A cada vaga do treinamento, +/- 12 pessoas competiam pela mesma;
+ -Motivação aos alunos do Entra-21;
+ -Dois ex-alunos do Entra 21 contando suas história de vida, um deles trabalha na Ambev Tech e o outro é gerente da Unifique;
+ -Apresentação da Carol Renaux sobre Marketing e padrão de perfil das redes sociais;
 
-   **Aula dia 12/05**
-   -[exercício06b](exemplos/exercício_006b.portugol)
+ **Aula dia 12/05**
+ -[exercício06b](exemplos/exercício_006b.portugol)
 
-   **Aula dia 13/05**
-   -Revisão Exercícios portugol.
+ **Aula dia 13/05**
+ -Revisão Exercícios portugol.
 
-   **Aula dia 16/05**
-   -Instalar Python 3.10;
-   -Python:
-    -[exercício01](exemplos\exercícios_011\ex001.py)
-    -[exercício02](exemplos\exercícios_011\ex002.py)
-    -[exercício03](exemplos\exercícios_011\ex003.py)
-    -[exercício04](exemplos\exercícios_011\ex004.py)
-    -[exercício05](exemplos\exercícios_011\ex005.py)
-    -[exercício06](exemplos\exercícios_011\ex006.py)
-    -[exercício07](exemplos\exercícios_011\ex007.py)
-    -[exercício08](exemplos\exercícios_011\ex008.py)
-    -[exercício09](exemplos\exercícios_011\ex009.py)
-    -[exercício010](exemplos\exercícios_011\ex010.py)
-    -[exercício011](exemplos\exercícios_011\ex011.py)
-    -[exercício012](exemplos\exercícios_011\ex012.py)
-    -[exercício013](exemplos\exercícios_011\ex013.py)
-    -[exercício014](exemplos\exercícios_011\ex014.py)
-    -[exercício015](exemplos\exercícios_011\ex015.py)
-    -[exercício016](exemplos\exercícios_011\ex016.py)
+ **Aula dia 16/05**
+ -Instalar Python 3.10;
+ -Python:
+  -[exercício01](exemplos\exercícios_011\ex001.py)
+  -[exercício02](exemplos\exercícios_011\ex002.py)
+  -[exercício03](exemplos\exercícios_011\ex003.py)
+  -[exercício04](exemplos\exercícios_011\ex004.py)
+  -[exercício05](exemplos\exercícios_011\ex005.py)
+  -[exercício06](exemplos\exercícios_011\ex006.py)
+  -[exercício07](exemplos\exercícios_011\ex007.py)
+  -[exercício08](exemplos\exercícios_011\ex008.py)
+  -[exercício09](exemplos\exercícios_011\ex009.py)
+  -[exercício010](exemplos\exercícios_011\ex010.py)
+  -[exercício011](exemplos\exercícios_011\ex011.py)
+  -[exercício012](exemplos\exercícios_011\ex012.py)
+  -[exercício013](exemplos\exercícios_011\ex013.py)
+  -[exercício014](exemplos\exercícios_011\ex014.py)
+  -[exercício015](exemplos\exercícios_011\ex015.py)
+  -[exercício016](exemplos\exercícios_011\ex016.py)
