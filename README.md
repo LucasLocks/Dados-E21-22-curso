@@ -109,7 +109,7 @@ nome pasta - abrir pasta.
   **Aula dia 09/05**
   -Revisão exercícios Portugol;
   -Laços de repetição;
-  -Exercício 5 portugol.
+  -[exercício05](exemplos/exercício_005.portugol)
 
   **Aula dia 10/05**
   -Exercícios Portugol
@@ -130,3 +130,23 @@ nome pasta - abrir pasta.
 
    **Aula dia 13/05**
    -Revisão Exercícios portugol.
+
+   **Aula dia 16/05**
+   -Instalar Python 3.10;
+   -Python:
+    -[exercício01](exemplos\exercícios_011\ex001.py)
+    -[exercício02](exemplos\exercícios_011\ex002.py)
+    -[exercício03](exemplos\exercícios_011\ex003.py)
+    -[exercício04](exemplos\exercícios_011\ex004.py)
+    -[exercício05](exemplos\exercícios_011\ex005.py)
+    -[exercício06](exemplos\exercícios_011\ex006.py)
+    -[exercício07](exemplos\exercícios_011\ex007.py)
+    -[exercício08](exemplos\exercícios_011\ex008.py)
+    -[exercício09](exemplos\exercícios_011\ex009.py)
+    -[exercício010](exemplos\exercícios_011\ex010.py)
+    -[exercício011](exemplos\exercícios_011\ex011.py)
+    -[exercício012](exemplos\exercícios_011\ex012.py)
+    -[exercício013](exemplos\exercícios_011\ex013.py)
+    -[exercício014](exemplos\exercícios_011\ex014.py)
+    -[exercício015](exemplos\exercícios_011\ex015.py)
+    -[exercício016](exemplos\exercícios_011\ex016.py)
