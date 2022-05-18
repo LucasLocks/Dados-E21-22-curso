@@ -1,5 +1,5 @@
 #ex036.py
-#Crie um programa que pede ao usuario uma frase ou palavra, verifique se a frase é palindromo ou não. E exiba o resultado. : A base do teto desaba. A cara rajada da jararaca. Acuda cadela da Leda caduca. A dama admirou o rim da amada. A Daniela ama a lei? Nada! Adias a data da saída. A diva em Argel alegra-me a vida. A droga do dote é todo da gorda. https://www.todamateria.com.br/palindromo/
+#Crie um programa que pede ao usuário uma frase ou palavra, verifique se a frase é palíndromo ou não. E exiba o resultado. : A base do teto desaba. A cara rajada da jararaca. Acuda cadela da Leda caduca. A dama admirou o rim da amada. A Daniela ama a lei? Nada! Adias a data da saída. A diva em Argel alegra-me a vida. A droga do dote é todo da gorda. https://www.todamateria.com.br/palindromo/
 
 frase = str(input('Digite uma palavra ou frase: ')).strip().upper()
 
@@ -17,6 +17,6 @@ for i in range(len(caracteres)-1,-1,-1):
 
 print(caracteres,fraseinvertida)
 if fraseinvertida == caracteres:
-    print('É um palindromo !')
+    print('É um palíndromo !')
 else:
-    print('Não é palindromo !')
+    print('Não é palíndromo !')

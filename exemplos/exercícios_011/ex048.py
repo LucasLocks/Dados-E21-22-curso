@@ -18,7 +18,7 @@ base = {
                 'a':'2',
                 'b':'1',
                 'c':'3',
-                'd':'d',
+                'd':'4',
             },
         'resposta_certa':'a'
     },
@@ -36,6 +36,7 @@ for pkeys,pvalues in base.items():
     print('')
     if resposta == pvalues['resposta_certa']:
         print('Resposta Correta!!!')
+        respostas_certas += 1
     else:
         print('Resposta ERRADA')
 
