@@ -33,3 +33,23 @@ Crie arquivos no seu repositório com o nome: exercício_011_001.py, 002.py e su
 28. Crie uma lista com 8 elementos de uma lista de compras de supermercado, por meio de um laço de repetição for, liste individualmente cada um dos itens dessa lista.
 29. Crie um programa que le um valor de inicio e um valor de fim, exibindo em tela a contagem dos números dentro desse intervalo.
 30. Crie um programa que realiza a contagem de 0 a 20, exibindo apenas os números pares.
+31. Crie um programa que realiza a Progressão Aritmetica de 20 elementos, com primeiro termo e razão definidos pelo usuário.  (Progressão aritmética - Uma progressão aritmética é uma sequência numérica em que cada termo, a partir do segundo, é igual à soma do termo anterior com uma constante r. O número r é chamado de razão ou diferença comum da progressão aritmética.)
+32. Crie um programa que exibe em tela a tabuada de um determinado número fornecido pelo usuário.
+33. Crie um programa que realiza a contagem regressiva de 20 segundos: (from time import sleep)
+34. Crie um programa que realiza a contagem de 1 a 100, usando apenas números impares ao final do processo exiba em tela quantos números impares foram encontrados nesse intervalo, assim como a soma dos mesmos:
+35. Crie um programa que pede ao usuário um número qualquer, em seguida retorno se este número é primo ou não, caso não, retorne também quantas vezes esse número é divisível. 
+36. Crie um programa que pede ao usuario uma frase ou palavra, verifique se a frase é palindromo ou não. E exiba o resultado. : A base do teto desaba. A cara rajada da jararaca. Acuda cadela da Leda caduca. A dama admirou o rim da amada. A Daniela ama a lei? Nada! Adias a data da saída. A diva em Argel alegra-me a vida. A droga do dote é todo da gorda. https://www.todamateria.com.br/palindromo/
+37. Declare uma variavel que receba uma frase e imprima utilizando f'strings. 
+38. Peça ao usuário que digite um número diretamete dentro da função print() eleve este número ao quadrado, exibindo o resultado incorporado em uma mensagem: 
+39. Substitua o terceiro item de da lista nomes. 
+40. Adicione um elemento na lista nomes. 
+41. Adicione um elemento na segunda posição da lista nomes. 
+42. Remova o elemento 'Carlos" da lista nomes. 
+43. Mostre o segundo, terceiro, quarto elemento da lista nomes. Mostre o ultimo elemento da lista. 
+44. Crie um Dicionario de dados ()
+45. Crie um Dicionario de dados usando o construtor de dicionarios do Python, alimente os valores do mesmo com os dados de duas listas Itens e Preços. 
+46. Crie uma simples estrutura de dados simulando um cadastro para uma loja. Nesse cadastro deve conter informações como nome, idade, sexo, estado civil, nacionalidade, faixa de renda, Exiba os dados. 
+47. Crie um programa que recebe dados de um aluno como nome e suas notas em supostos 3 trimestres de aula, retornando um novo dicionario como o nome do aluno e a média de suas notas
+48. Crie um sistema de perguntas e respostas que interage com o usuário, pedindo que o mesmo insira uma resposta. Caso a primeira questão esteja correta, exiba em tela uma mensagem de acerto e para para a proxima pergunta, caso incorreta, exiba uma mensagem de erro e pule para a proxima pergunta. Dicts. 
+49. Crie uma função de nome funcao1, que por sua vez não relializa nenhuma ação:
+50. Importe a função 1 do exercio anterior e atribua o resultadoeEE

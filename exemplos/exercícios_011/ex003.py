@@ -7,5 +7,3 @@
    string: nome 
 
 '''
-
-

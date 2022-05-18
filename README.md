@@ -100,23 +100,23 @@ nome pasta - abrir pasta.
   
  **Aula dia 06/05**
  -Exercícios Portugol:
-  -[exercício01](exemplos/exercício_001.portugol)
-  -[exercício02](exemplos/exercício_002.portugol)
-  -[exercício03](exemplos/exercício_003.portugol)  
-  -[exercício04](exemplos/exercício_004.portugol)
+  -[exercício01](exemplos/Portugol/exercício_001.portugol)
+  -[exercício02](exemplos/Portugol/exercício_002.portugol)
+  -[exercício03](exemplos/Portugol/exercício_003.portugol)  
+  -[exercício04](exemplos/Portugol/exercício_004.portugol)
 
  **Aula dia 09/05**
  -Revisão exercícios Portugol;
  -Laços de repetição;
- -[exercício05](exemplos/exercício_005.portugol)
+ -[exercício05](exemplos/Portugol/exercício_005.portugol)
 
  **Aula dia 10/05**
  -Exercícios Portugol:
-  -[exercício01b](exemplos/exercício_001b.portugol)
-  -[exercício02b](exemplos/exercício_002b.portugol)
-  -[exercício03b](exemplos/Exercício_003b.portugol)
-  -[exercício04b](exemplos/exercício_004b.portugol)
-  -[exercício05b](exemplos/exercício_005b.portugol)
+  -[exercício01b](exemplos/Portugol/exercício_001b.portugol)
+  -[exercício02b](exemplos/Portugol/exercício_002b.portugol)
+  -[exercício03b](exemplos/Portugol/Exercício_003b.portugol)
+  -[exercício04b](exemplos/Portugol/exercício_004b.portugol)
+  -[exercício05b](exemplos/Portugol/exercício_005b.portugol)
 
  **Aula Magna 11/05**
  -Foi mostrado o grande número de inscritos no Entra-21-22 e como os alunos atuais foram sortudos de serem selecionados. A cada vaga do treinamento, +/- 12 pessoas competiam pela mesma;
@@ -125,14 +125,14 @@ nome pasta - abrir pasta.
  -Apresentação da Carol Renaux sobre Marketing e padrão de perfil das redes sociais;
 
  **Aula dia 12/05**
- -[exercício06b](exemplos/exercício_006b.portugol)
+ -[exercício06b](exemplos/Portugol/exercício_006b.portugol)
 
  **Aula dia 13/05**
  -Revisão Exercícios portugol.
 
  **Aula dia 16/05**
  -Instalar Python 3.10;
- -Python:
+ -Exercícios Python:
   -[exercício01](exemplos\exercícios_011\ex001.py)
   -[exercício02](exemplos\exercícios_011\ex002.py)
   -[exercício03](exemplos\exercícios_011\ex003.py)
@@ -149,3 +149,26 @@ nome pasta - abrir pasta.
   -[exercício014](exemplos\exercícios_011\ex014.py)
   -[exercício015](exemplos\exercícios_011\ex015.py)
   -[exercício016](exemplos\exercícios_011\ex016.py)
+
+ **Aula dia 17/05**
+ -Exercícios Python:
+  -[exercício017](exemplos/exercícios_011/ex017.py)
+  -[exercício018](exemplos/exercícios_011/ex018.py)
+  -[exercício019](exemplos/exercícios_011/ex019.py)
+  -[exercício020](exemplos/exercícios_011/ex020.py)
+  -[exercício021](exemplos/exercícios_011/ex021.py)
+  -[exercício022](exemplos/exercícios_011/ex022.py)
+  -[exercício023](exemplos/exercícios_011/ex023.py)
+  -[exercício024](exemplos/exercícios_011/ex024.py)
+  -[exercício025](exemplos/exercícios_011/ex025.py)
+  -[exercício026](exemplos/exercícios_011/ex026.py)
+  -[exercício027](exemplos/exercícios_011/ex027.py)
+  -[exercício028](exemplos/exercícios_011/ex028.py)
+  -[exercício029](exemplos/exercícios_011/ex029.py)
+  -[exercício030](exemplos/exercícios_011/ex030.py)
+  -[exercício031](exemplos/exercícios_011/ex031.py)
+  -[exercício032](exemplos/exercícios_011/ex032.py)
+  -[exercício033](exemplos/exercícios_011/ex033.py)
+  -[exercício034](exemplos/exercícios_011/ex034.py)
+  -[exercício035](exemplos/exercícios_011/ex035.py)
+  -[exercício036](exemplos/exercícios_011/ex036.py)
