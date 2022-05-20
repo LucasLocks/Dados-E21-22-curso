@@ -1,5 +1,10 @@
 # ex048.py
-#Crie um sistema de perguntas e respostas que interage com o usuário, pedindo que o mesmo insira uma resposta. Caso a primeira questão esteja correta, exiba em tela uma mensagem de acerto e para para a proxima pergunta, caso incorreta, exiba uma mensagem de erro e pule para a proxima pergunta. Dicts. 
+"""
+Crie um sistema de perguntas e respostas que interage com o usuário, pedindo que
+o mesmo insira uma resposta. Caso a primeira questão esteja correta, exiba em 
+tela uma mensagem de acerto e para para a proxima pergunta, caso incorreta,
+exiba uma mensagem de erro e pule para a proxima pergunta. Dicts. 
+"""
 
 base = { 
     'Pergunta 01':{
@@ -45,4 +50,4 @@ if respostas_certas == 0:
 elif respostas_certas == 1:
     print('Você acertou apenas uma questão')
 else: 
-    print(f'Você acertou {respostas_certas}. Parabens!!!!')
+    print(f'Você acertou {respostas_certas}. Parabéns!!!!')

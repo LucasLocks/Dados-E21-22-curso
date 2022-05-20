@@ -1,5 +1,6 @@
 #ex0147.py
-#Crie um programa que recebe dados de um aluno como nome e suas notas em supostos 3 trimestres de aula, retornando um novo dicionario como o nome do aluno e a média de suas notas
+#Crie um programa que recebe dados de um aluno como nome e suas notas em supostos 3 trimestres de 
+#aula, retornando um novo dicionario como o nome do aluno e a média de suas notas
 
 aluno = [{
     'Nome': 'Adriano', 

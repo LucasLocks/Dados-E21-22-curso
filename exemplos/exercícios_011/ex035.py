@@ -1,5 +1,9 @@
 #ex035.py
-#Crie um programa que pede ao usuário um número qualquer, em seguida retorno se este número é primo ou não, caso não, retorne também quantas vezes esse número é divisível.
+"""
+Crie um programa que pede ao usuário um número qualquer, em seguida retorno se
+este número é primo ou não, caso não, retorne também quantas vezes esse número
+é divisível.
+"""
 
 numero = int(input('Digite um número:'))
 divisoes = 0

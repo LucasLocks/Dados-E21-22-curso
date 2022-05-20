@@ -1,5 +1,6 @@
 #ex014.py
-#Realize as operacoes de multiplicação e de divisão entre os valores das variaveis num1 e num2.
+#Realize as operações de multiplicação e de divisão entre os valores das
+#variáveis num1 e num2.
 
 num1 = 100
 num2 = 5

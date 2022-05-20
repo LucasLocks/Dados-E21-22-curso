@@ -1,5 +1,6 @@
 #ex012.py
-#Some os valores das variaveis num1 e num2, atribuindo o resultado da soma a uma variavel homonímica. Exiba em tela o conteudo dessa variavel.
+#Some os valores das variáveis num1 e num2, atribuindo o resultado da soma a uma
+#variável homonímica. Exiba em tela o conteúdo dessa variável.
 
 num1 = 100
 num2 = 200

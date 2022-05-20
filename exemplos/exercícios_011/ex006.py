@@ -1,5 +1,5 @@
 #ex006.py
-#Exiba em tela o valor e o tipo de dado da variavel num1: Sendo num1=1975
+#Exiba em tela o valor e o tipo de dado da variável num1: Sendo num1=1975
 
 num1 = 1975
 print(num1)

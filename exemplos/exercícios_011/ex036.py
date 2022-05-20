@@ -1,5 +1,13 @@
 #ex036.py
-#Crie um programa que pede ao usuário uma frase ou palavra, verifique se a frase é palíndromo ou não. E exiba o resultado. : A base do teto desaba. A cara rajada da jararaca. Acuda cadela da Leda caduca. A dama admirou o rim da amada. A Daniela ama a lei? Nada! Adias a data da saída. A diva em Argel alegra-me a vida. A droga do dote é todo da gorda. https://www.todamateria.com.br/palindromo/
+"""
+Crie um programa que pede ao usuário uma frase ou palavra, verifique se a frase
+é palíndromo ou não. E exiba o resultado. : A base do teto desaba. A cara rajada
+da jararaca. Acuda cadela da Leda caduca. A dama admirou o rim da amada. A
+Daniela ama a lei Nada Adias a data da saída. A diva em Argel alegra-me a validade
+.A droga do dote é todo da gorda. https://www.todamateria.com.br/palindromo/
+"""
+
+from wsgiref import validate
 
 frase = str(input('Digite uma palavra ou frase: ')).strip().upper()
 

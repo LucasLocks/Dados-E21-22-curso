@@ -1,5 +1,6 @@
 #ex033.py
-#Crie um programa que realiza a contagem regressiva de 20 segundos: (from time import sleep)
+#Crie um programa que realiza a contagem regressiva de 20 segundos:
+#(from time import sleep)
 
 from time import sleep
 

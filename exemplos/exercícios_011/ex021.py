@@ -1,5 +1,5 @@
 #ex021.py
-#Verifique se os valores de num1 e de num2 são iguais ou menores que sem
+#Verifique se os valores de num1 e de num2 são iguais ou menores que 100
 
 from ex017 import num1, num2
 

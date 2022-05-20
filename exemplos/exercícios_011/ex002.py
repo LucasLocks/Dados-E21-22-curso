@@ -1,4 +1,4 @@
 #ex002.py
-#Crie um comentario de no máximo uma linha
+#Crie um comentário de no máximo uma linha
 
-# comentario de uma só linha
+# comentário de uma só linha

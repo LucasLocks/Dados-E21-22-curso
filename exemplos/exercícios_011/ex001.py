@@ -1,5 +1,5 @@
 #ex001.py
-#Crie tres tipos variaveis em tipos diferentes.
+#Crie tres tipos variáveis em tipos diferentes.
 
 ano = 0 
 ano = 1975
