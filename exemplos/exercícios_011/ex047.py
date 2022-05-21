@@ -15,12 +15,9 @@ def calcula_media(aluno):
     notas = []
     for media in aluno:
         print(f"Aluno --> {media['Nome']}")
-        if len(media['Notas']) > 0:
-            temp = round(sum(media['Notas'])/len(media['Notas']),4)
-            print(f"Notas: {media['Notas']}")
-        else:
-            temp =0 
-        notas.append({'Nome':media['Nome'],'Media das notas': temp})
+        temp = round(sum(media['Notas'])/len(media['Notas']),2)
+        print(f"Notas: {media['Notas']}")
+    notas.append({'Nome':media['Nome'],'Media das notas': temp})
     print (notas)
 
 media_estudante = calcula_media(aluno)

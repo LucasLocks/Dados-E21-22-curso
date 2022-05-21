@@ -185,4 +185,7 @@ nome pasta - abrir pasta.
   -[exercício045](exemplos/exercícios_011/ex045.py)
   -[exercício046](exemplos/exercícios_011/ex046.py)
   -[exercício047](exemplos/exercícios_011/ex047.py)
+
+ **Aula dia 20/05**
+  --[exercício047e](exemplos/exercícios_011/ex047e.py)
   
