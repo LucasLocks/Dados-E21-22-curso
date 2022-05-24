@@ -1,4 +1,6 @@
 # ex060.py
+#Crie uma função que recebe parâmetros tanto por justaposição (*args) quanto
+#nomeados **(kwargs):
 
 def id(*args,**kwargs):
     for n in args:

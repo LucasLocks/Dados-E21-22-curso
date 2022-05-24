@@ -5,29 +5,7 @@ o mesmo insira uma resposta. Caso a primeira questão esteja correta, exiba em
 tela uma mensagem de acerto e para para a proxima pergunta, caso incorreta,
 exiba uma mensagem de erro e pule para a proxima pergunta. Dicts. 
 """
-
-base = { 
-    'Pergunta 01':{
-        'pergunta':'Quanto é 4 x 4?',
-        'alternativas':{
-                'a':'12',
-                'b':'24',
-                'c':'16',
-                'd':'20',
-            },
-        'resposta_certa':'c'
-    },
-    'Pergunta 02':{
-        'pergunta':'Quanto é 6/3',
-        'alternativas':{
-                'a':'2',
-                'b':'1',
-                'c':'3',
-                'd':'4',
-            },
-        'resposta_certa':'a'
-    },
-}
+from ex048base import base
 
 respostas_certas = 0 
 
@@ -37,7 +15,7 @@ for pkeys,pvalues in base.items():
     for rkeys,rvalues in pvalues['alternativas'].items():
         print(f'[{rkeys}]:{rvalues}')
 
-    resposta = input('Escolha uma alternativa: [a],[b],[c], ou [d]')
+    resposta = input('\nEscolha uma alternativa: [a],[b],[c], ou [d]: ')
     print('')
     if resposta == pvalues['resposta_certa']:
         print('Resposta Correta!!!')

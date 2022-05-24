@@ -187,5 +187,20 @@ nome pasta - abrir pasta.
   -[exercício047](exemplos/exercícios_011/ex047.py)
 
  **Aula dia 20/05**
-  --[exercício047e](exemplos/exercícios_011/ex047e.py)
+  -[exercício047e](exemplos/exercícios_011/ex047e.py)
+
+ **Aula dia 23/05**
+  -[exercício48](exemplos/exercícios_011/ex048.py)
+  -[exercício49](exemplos/exercícios_011/ex049.py)
+  -[exercício50](exemplos/exercícios_011/ex050.py)
+  -[exercício51](exemplos/exercícios_011/ex051.py)
+  -[exercício52](exemplos/exercícios_011/ex052.py)
+  -[exercício53](exemplos/exercícios_011/ex053.py)
+  -[exercício54](exemplos/exercícios_011/ex054.py)
+  -[exercício55](exemplos/exercícios_011/ex055.py)
+  -[exercício56](exemplos/exercícios_011/ex056.py)
+  -[exercício57](exemplos/exercícios_011/ex057.py)
+  -[exercício58](exemplos/exercícios_011/ex058.py)
+  -[exercício59](exemplos/exercícios_011/ex059.py)
+  -[exercício60](exemplos/exercícios_011/ex060.py)
   

@@ -52,4 +52,4 @@ Crie arquivos no seu repositório com o nome: exercício_011_001.py, 002.py e su
 47. Crie um programa que recebe dados de um aluno como nome e suas notas em supostos 3 trimestres de aula, retornando um novo dicionario como o nome do aluno e a média de suas notas
 48. Crie um sistema de perguntas e respostas que interage com o usuário, pedindo que o mesmo insira uma resposta. Caso a primeira questão esteja correta, exiba em tela uma mensagem de acerto e para para a proxima pergunta, caso incorreta, exiba uma mensagem de erro e pule para a proxima pergunta. Dicts. 
 49. Crie uma função de nome funcao1, que por sua vez não relializa nenhuma ação:
-50. Importe a função 1 do exercio anterior e atribua o resultadoeEE
+50. Importe a função 1 do exercio anterior e atribua o resultado
