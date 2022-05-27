@@ -208,4 +208,12 @@ nome pasta - abrir pasta.
   -[exercício60h](exemplos/exercícios_011/ex060H.py)
   -[pandasfile](exemplos/exercícios_011/pandasfile.py)
   -[pandas001](exemplos/exercícios_011/pandas001.py)
-  
+
+ **Aula dia 26/05**
+  -[for_else](exemplos/exercícios_011/for_else.py)
+  -[for_loops](exemplos/exercícios_011/for_loops.py)
+  -[for_loops_b](exemplos/exercícios_011/for_loops_b.py)
+  -[for_loops_c](exemplos/exercícios_011/for_loops_c.py)
+  -[for_loops_d](exemplos/exercícios_011/for_loops_d.py)
+  -[for_simples](exemplos/exercícios_011/for_simples.py)
+  -[while](exemplos/exercícios_011/while.py)
