@@ -217,3 +217,9 @@ nome pasta - abrir pasta.
   -[for_loops_d](exemplos/exercícios_011/for_loops_d.py)
   -[for_simples](exemplos/exercícios_011/for_simples.py)
   -[while](exemplos/exercícios_011/while.py)
+
+ **Aula dia 27/05**
+  -[exercício61](exemplos/exercícios_011/ex061.py)
+  -[exercício61b](exemplos/exercícios_011/ex061b.py)
+  -[exercício62](exemplos/exercícios_011/ex062/main.py)
+  -[exercício64](exemplos/exercícios_011/ex064.py)
