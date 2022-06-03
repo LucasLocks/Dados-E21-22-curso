@@ -223,3 +223,8 @@ nome pasta - abrir pasta.
   -[exercício61b](Projeto/ex000_ex0064/ex061b.py)
   -[exercício62](Projeto/ex000_ex0064/ex062/main.py)
   -[exercício64](Projeto/ex000_ex0064/ex064.py)
+
+ **Aula dia 31/05**
+  -[exercício65](Projeto/ex65/ex065.py)
+  -[orientação_a_objetos](Projeto/ex65/e065_Orientacao_Objetos_Com_Python.md)
+  

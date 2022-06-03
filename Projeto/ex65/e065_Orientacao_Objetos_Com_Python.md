@@ -108,6 +108,11 @@ sexo=False,altura=False são considerados como None
 Múltiplos Métodos de Classe
 [Python - Programação Orientada a Objetos - Aula 11 E 065](https://youtu.be/S0kZzm-vXEg)
 
-
 Interação entre métodos de classe
 [Python - Programação Orientada a Objetos - Aula 12 E 065](https://youtu.be/Gg6viyVYL9I)
+
+Estruturas condicionais em métodos de classe
+[Python - Programação Orientada a Objetos - Aula 13 E 065](https://youtu.be/g-iBChn1OSQ)
+
+Métodos de classe estáticos e dinâmicos
+[Python - Programação Orientada a Ojbetos - Aula 15 E065]()

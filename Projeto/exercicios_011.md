@@ -76,7 +76,7 @@ rajada da jararaca. Acuda cadela da Leda caduca. A dama admirou o rim da amada.
 A Daniela ama a lei? Nada! Adias a data da saída. A diva em Argel alegra-me a
 vida.[site](https://www.todamateria.com.br/palindromo/)
 37. Declare uma variável que receba uma frase e imprima utilizando f'strings.
-38. Peça ao usuário que digite um número diretamete dentro da função print()
+38. Peça ao usuário que digite um número diretamente dentro da função print()
 eleve este número ao quadrado, exibindo o resultado incorporado em uma mensagem:
 39. Substitua o terceiro item de da lista nomes.
 40. Adicione um elemento na lista nomes.
@@ -142,3 +142,22 @@ seguida crie dois carros distintos, de características diferentes, usando
 da classe para a construção de seu objetos/variáveis.
 68. Crie uma classe Pessoa com método inicializador e alguns objetos da classe
 vazios dentro da mesma que representam características de uma pessoa.
+69. Crie uma classe Inventario com os atributos de classe pré definidos item1 e
+item2, a serem cadastrados manualmente pelo usuario, simulando um simples
+carrinho de compras.(7)
+70. Crie uma classe biblioteca que possui uma estrutura molde básica para
+cadastro de um livro de acordo com seu titulo, porem que espera a inclusão de
+um número não definido de títulos. Em seguida castre ao menos 5 livros nessa
+biblioteca. (11)
+71. Crie uma calculadora simples de 4 operações (soma,sub,multi e div) usando
+apenas de estrutura de código orientada a objetos. Ex. calc.soma(3,4);
+calc.div(9,3) (11)
+72. Mostre via terminal a string 'Bem vindo ao mundo da programação no entra21'
+de trás pra frente utilizando indexação.(2)
+73. Escreva um programa que encontre todos os números que são divisíveis por 7,
+mas que não são múltiplos de 5, entre 200 e 2200 (ambos incluídos). Os números
+obtidos devem ser impressos em sequencia, separados por virgula e em uma única
+linha.(5)
+74. Escreva um programa, (calculadora simples), de 4 operações, onde o usuário
+escolherá entre uma das 4 operações (+-*/). Lembrando que o usuário digitará
+apenas dois valores, e escolhera uma operação de matemática do menu.(22)
