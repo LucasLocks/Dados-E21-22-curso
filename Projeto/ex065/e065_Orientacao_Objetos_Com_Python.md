@@ -114,5 +114,11 @@ Interação entre métodos de classe
 Estruturas condicionais em métodos de classe
 [Python - Programação Orientada a Objetos - Aula 13 E 065](https://youtu.be/g-iBChn1OSQ)
 
-Métodos de classe estáticos e dinâmicos
-[Python - Programação Orientada a Ojbetos - Aula 15 E065]()
+Métodos de Classe Estáticos e dinâmicos (@CLASSMETHOD)
+[Python - Programação Orientada a Objetos - Aula 14 E065](https://youtu.be/etYtgsCrAr8)
+
+Métodos de Classe Estáticos e dinâmicos (@STATICHMETHOD)
+[Python - Programação Orientada a Objetos - Aula 15 E065](https://youtu.be/I8j1-ttu9Mk)
+
+Métodos de Classe Estático, Dinâmico e Normal.
+[Python - Programação Orientada a Objetos - Aula 16 E065](https://youtu.be/3oGjNZw2QxI)

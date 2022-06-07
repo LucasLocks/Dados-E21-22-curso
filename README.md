@@ -225,17 +225,23 @@ nome pasta - abrir pasta.
   -[exercício64](Projeto/ex000_ex0064/ex064.py)
 
  **Aula dia 31/05**
-  -[exercício65](Projeto/ex65/ex065.py)
-  -[orientação_a_objetos](Projeto/ex65/e065_Orientacao_Objetos_Com_Python.md)
+  -[exercício65](Projeto/ex065/ex065.py)
+  -[orientação_a_objetos](Projeto/ex065/e065_Orientacao_Objetos_Com_Python.md)
 
  **Aula dia 03/06**
-  -[exercício66](Projeto/ex65/ex66.py)
-  -[exercício67](Projeto/ex65/ex067.py)
-  -[exercício68](Projeto/ex65/ex068.py)
-  -[exercício69](Projeto/ex65/ex69.py)
-  -[exercício70](Projeto/ex65/ex70.py)
-  -[exercício71](Projeto/ex65/ex71.py)
-  -[exercício72](Projeto/ex65/ex72.py)
-  -[exercício73](Projeto/ex65/ex73.py)
-  -[exercício74](Projeto/ex65/ex74.py)
+  -[exercício66](Projeto/ex065/ex066.py)
+  -[exercício67](Projeto/ex065/ex067.py)
+  -[exercício68](Projeto/ex065/ex068.py)
+  -[exercício69](Projeto/ex065/ex069.py)
+  -[exercício70](Projeto/ex065/ex070.py)
+  -[exercício71](Projeto/ex065/ex071.py)
+  -[exercício72](Projeto/ex065/ex072.py)
+  -[exercício73](Projeto/ex065/ex073.py)
+  -[exercício74](Projeto/ex065/ex074.py)
+
+ **Aula dia 06/06**
+  -[exercício75](Projeto/ex065/ex075.py)
+  -[exercício76](Projeto/ex065/ex076.py)
+  -[exercício79](Projeto/ex065/ex079.py)
+  -[exercício80](Projeto/ex065/ex080.py)
   

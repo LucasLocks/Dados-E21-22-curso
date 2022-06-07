@@ -161,3 +161,20 @@ linha.(5)
 74. Escreva um programa, (calculadora simples), de 4 operações, onde o usuário
 escolherá entre uma das 4 operações (+-*/). Lembrando que o usuário digitará
 apenas dois valores, e escolhera uma operação de matemática do menu.(22)
+75. Crie uma funcao que recebe um número e retorna o mesmo dividido em duas
+metades, sendo cada metade um elemento de uma lista. Sendo que a divisão deve
+retornar apenas elementos tipo int sem perder nenhum valor
+76. Crie um programa que gera um dicionario a partir de um valor digitado pelo
+usuário, de modo que serão exibidos todos os valores antecessores a este número
+multiplicados por eles mesmos. Supondo que o usuário tenha digitado 4, a Saida
+deve ser { 1:1, 2:4, 3:9, 4:16}:
+77. Defina uma função que pode aceitar duas string como entrada, exibindo em
+tela apenas a string de maior tamanho/comprimento. Caso as duas string tenham
+mesmo tamanho exiba as duas.
+78. Escreva um programa que recebe um texto do usuário e o converte para código
+morse, exibindo em tela o texto em formato Morse, segundo a padronização
+'.-' (Ponto, traço)
+79. Escreva um programa que recebe do usuário um número de 0 a 100 e transcreve
+o mesmo por extenso.
+80. Escreva um programa (ou função) que recebe um nome e um sobrenome do
+usuário, retornando os mesmos no padrão americano, ou seja, sobrenome, nome.
