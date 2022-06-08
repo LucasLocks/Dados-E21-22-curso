@@ -2,6 +2,5 @@
 #Some os valores das variáveis num1 e num2: sendo num1=52 e num2 = 106. por fim
 #exiba o resultado.
 
-num1 = 52
-num2 = 106
+num1, num2 = 52, 106
 print(num1+num2)

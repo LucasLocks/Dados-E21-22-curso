@@ -7,4 +7,8 @@ desses números.
 num1 = int(input('Digite A: '))
 num2 = int(input('Digite B: '))
 
-print(f'A soma: {num1 + num2}')
+print(f'A soma: {num1 + num2}') 
+
+#v2
+num1, num2 = int(input('Digite A: ')), int(input('Digite B: '))
+print(f'Soma = {num1 + num2}')

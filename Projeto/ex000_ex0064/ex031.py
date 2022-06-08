@@ -6,7 +6,6 @@ progressão aritmética é uma sequência numérica em que cada termo, a partir 
 segundo, é igual à soma do termo anterior com uma constante r. O número r é
 chamado de razão ou diferença comum da progressão aritmética.)
 """
-from pydoc import doc
 
 termo = int(input('Digite o primeiro termo: '))
 razao = int(input('Digite a razão: '))

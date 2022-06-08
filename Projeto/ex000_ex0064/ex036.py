@@ -7,8 +7,6 @@ Daniela ama a lei Nada Adias a data da saída. A diva em Argel alegra-me a valid
 .A droga do dote é todo da gorda. https://www.todamateria.com.br/palindromo/
 """
 
-from wsgiref import validate
-
 frase = str(input('Digite uma palavra ou frase: ')).strip().upper()
 
 palavras = frase.split()
