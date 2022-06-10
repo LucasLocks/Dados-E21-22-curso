@@ -178,3 +178,33 @@ morse, exibindo em tela o texto em formato Morse, segundo a padronização
 o mesmo por extenso.
 80. Escreva um programa (ou função) que recebe um nome e um sobrenome do
 usuário, retornando os mesmos no padrão americano, ou seja, sobrenome, nome.
+81. Crie um programa que gera uma senha aleatória, com um tamanho definido pelo
+usuário:
+82. Crie uma função que exibe em tela tanto o conteúdo de uma variável local
+quando de uma variável global, sendo as variáveis de mesmo nome, porem uma não
+substituindo a outra. (usar o comando: global <variavel>)
+Mesmo exercícios fazendo com uma classe.
+83. Crie um programa que recebe o número digitado pelo usuário, convertendo o
+mesmo para algarismo de número Romano, exibindo em tela esse dado já convertido
+Utilizar Class.
+84. Crie um programa que mostra a data atual, formatada para
+dia/mes/ano hora:minuto:segundo). (import datetime): faça um relógio que mostre
+a hora atualizada por 15 segundos e interrompa. time.sleep (15)
+85. Crie um programa que exibe a versão atual do Python instalada em seu
+sistema: (import sys)
+86. A partir de uma lista composta apenas de dados numéricos, gere outra lista
+usando list comprehension usando como base a lista anterior, compondo a nova
+com valores dos elementos originais elevados ao cubo: kkk é mais fácil que
+imagina. (lista1 = [1,2,3,4,5,6] ; lista2 = [i** 3 for i in lista1])
+87. Aprimore o exemplo x087.py com list comprehension: Crie o x087b.py.
+88. Escreva uma função que recebe do usuário um número qualquer e retorna para
+o mesmo tal numero elevado ao quadrado (simples ok!). Crie uma documentação
+para esta função que possa ser acessada pelo usuário diretamente via IDE:
+(dica docstring e PEP8)
+    1  def quadrado(num):
+    2.  '''
+    3.  sjdlfkjasçldfjalçskdfjlçaksdjfçlkasjdflçkasj
+    4.  num: inteiro
+    5.  '''
+        1.  return num **2
+    6.  Faça o mesmo com uma Class.

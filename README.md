@@ -248,4 +248,7 @@ nome pasta - abrir pasta.
  **Aula dia 07/06**
   -[exercício77](Projeto/ex065_099/ex077.py)
   -[exercício78](Projeto/ex065_099/ex078.py)
-  
+
+ **Aula dia 09/06**
+  -[exercício81](Projeto/ex065_099/ex081.py)
+  -[exercício84](Projeto/ex065_099/ex084.py)
