@@ -5,9 +5,10 @@ usuário: """
 from random import choice
 import string
 
-tamanho_da_senha = int(input("Quantos dígitos você quer na sua senha? "))
 caracteres = string.ascii_letters + string.digits + string.punctuation
+tamanho_da_senha = int(input("Quantos dígitos você quer na sua senha? "))
 senha = ''
+
 for i in range(tamanho_da_senha):
   senha += choice(caracteres)
 

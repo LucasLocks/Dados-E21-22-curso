@@ -13,10 +13,6 @@ while a < 16:
     print (hj)
     a = a + 1
     time.sleep (1)
-   
-
-    
-
 
 """Código achei no google mostra um relógio na tela:
 import tkinter as tk
