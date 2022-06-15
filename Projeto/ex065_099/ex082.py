@@ -4,11 +4,12 @@ quando de uma variável global, sendo as variáveis de mesmo nome, porem uma nã
 substituindo a outra. (usar o comando: global <variável>)
 v2 = Mesmo exercício fazendo com uma classe. """
 
-var = 1
+var = False
 def func():
     global var
-    var = 0
+    var = True
     return var
 
 print(var)
 print(func())
+print(var)

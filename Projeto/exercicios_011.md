@@ -182,7 +182,7 @@ usuário, retornando os mesmos no padrão americano, ou seja, sobrenome, nome.
 usuário:
 82. Crie uma função que exibe em tela tanto o conteúdo de uma variável local
 quando de uma variável global, sendo as variáveis de mesmo nome, porem uma não
-substituindo a outra. (usar o comando: global <variavel>)
+substituindo a outra. (usar o comando: global <variável>)
 Mesmo exercícios fazendo com uma classe.
 83. Crie um programa que recebe o número digitado pelo usuário, convertendo o
 mesmo para algarismo de número Romano, exibindo em tela esse dado já convertido

@@ -274,3 +274,6 @@ nome pasta - abrir pasta.
   -[list.pop](Projeto/metodos_lista/list.pop.py)
   -[list.remove](Projeto/metodos_lista/list.remove.py)
   -[list.reverse](Projeto/metodos_lista/list.reverse.py)
+
+ **Aula dia 14/06**
+  -[exercício082b](Projeto/ex065_099/ex082b.py)

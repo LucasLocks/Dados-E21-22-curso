@@ -6,12 +6,10 @@ a hora atualizada por 15 segundos e interrompa. time.sleep (15) """
 import time 
 from datetime import datetime
 
-a = 0
-while a < 16:
-    hj = datetime.now()
-    hj = f'{hj.day}/{hj.month}/{hj.year} {hj.hour}:{hj.minute}:{hj.second}'
-    print (hj)
-    a = a + 1
+for i in range(15):
+    agora = datetime.now()
+    agora = f'{agora.day}/{agora.month}/{agora.year} {agora.hour}:{agora.minute}:{agora.second}'
+    print (agora)
     time.sleep (1)
 
 """Código achei no google mostra um relógio na tela:
