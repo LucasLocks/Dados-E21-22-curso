@@ -284,3 +284,13 @@ nome pasta - abrir pasta.
   -[exercício086](Projeto/ex065_099/ex086.py)
   -[exercício087](Projeto/ex065_099/ex087.py)
   -[exercício088](Projeto/ex065_099/ex088.py)
+
+ **Aula dia 23/06**
+  -[exercício090](Projeto/ex065_099/ex090.py)
+  -[exercício091](Projeto/ex065_099/ex091.py)
+  -[exercício092](Projeto/ex065_099/ex092.py)
+  -[exercício093](Projeto/ex065_099/ex093.py)
+  -[exercício094](Projeto/ex065_099/ex094.py)
+  -[exercício095](Projeto/ex065_099/ex095.py)
+  -[exercício096](Projeto/ex065_099/ex096.py)
+  

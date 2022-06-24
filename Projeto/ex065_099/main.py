@@ -1,28 +1,16 @@
 # main.py
 from pessoa import Pessoa
 
-pessoa1 = Pessoa('Lucas', 19, 178, 'Lages')
-pessoa2 = Pessoa('Carol', 25, 160, 'Criciúma')
+""" classe importada do arquivo Pessoa:
+class Pessoa:
+    def __init__(self, nome, idade, altura, cidade):
+        self.nome = nome
+        self.idade = idade 
+        self.altura = altura
+        self.cidade = cidade """
 
-print(f'Bem vindo Sr ,{pessoa1.nome}, parabéns pelos seus {pessoa1.idade} anos de vida')
-print(f'Bem vindo Sra ,{pessoa2.nome}, parabéns pelos seus {pessoa2.idade} anos de vida')
+pessoa1 = Pessoa('Lucas', 19, 1.78, 'Lages')
+pessoa2 = Pessoa('Carol', 25, 1.60, 'Criciúma')
 
-""" 
-print(pessoa1.nome)
-print(pessoa1.idade)
-print(pessoa1.altura)
-print(pessoa1.cidade)
-
-Exemplos anteriores ao video 7 
-pessoa1 = Pessoa()
-pessoa2 = Pessoa()
-
-print('P1: ',pessoa1.nome)
-print('P2: ',pessoa2.nome)
-
-Pessoa.nome = 'Alex'
-
-pessoa2.nome ='Adriano'
-
-print('P1: ',pessoa1.nome)
-print('P2: ',pessoa2.nome) """
+print(f'Nome: {pessoa1.nome}\nCidade: {pessoa1.cidade}\nIdade: {pessoa1.idade}\nAltura:{pessoa1.altura}')
+print(f'\nNome: {pessoa2.nome}\nCidade: {pessoa2.cidade}\nIdade: {pessoa2.idade}\nAltura:{pessoa2.altura}')
