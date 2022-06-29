@@ -298,3 +298,63 @@ nome pasta - abrir pasta.
   -[exercício097](Projeto/ex065_099/ex097.py)
   -[exercício098](Projeto/ex065_099/ex098.py)
   -[exercício099](Projeto/ex065_099/ex099.py)
+
+ **Aula dia 28/06**
+  -O que é Banco de Dados:
+   -Conjunto de informações organizadas em um formato onde os dados possam ser facilmente:
+    -Armazenados.
+    -gerenciados.
+    -atualizados.
+    -recuperados.
+  -Tipos de Bancos de Dados:
+   -Categorias (duas):
+    -Banco de dados Relacional
+    -Banco de dados Não relacional (NoSQL)
+
+  -Estrutura de um Banco de Dados:
+   -Banco de Dados Relacional: Caracterizado pela forma como os dados são organizados.
+   -Tabelas respeitam um SCHEMA. Determina como as tabelas devem ser.
+   -Tabelas ou Entidade.
+    : id    : cpf             : nome    : idade :
+    :  1    : 123.456.789-11  : Adriano : 18    :
+    :  2    : 123-555-777-12  : Karina  : 40    :
+   -Colunas ou Atributos.
+   -Linhas ou Tuplas.
+
+  -Tipos de Dados:
+   -Text;
+   -Integer;
+   -Real;
+   -Null.
+   -[exemplo](https://www.sqlite.org/datatype3.html)
+
+  -Chave Primaria: PK Primary Key - Ela serve para definir exclusividades
+  dentro de uma tabela. Cada linha de nossa tabela é única, PK. Só podemos
+  definir uma única coluna dentro da tabela como PK. Uma chave primaria pode
+  ser com uma única coluna ou composta por 2 colunas de nossa tabela.
+
+  -ID Abreviação de Identificação ID (criar uma sequencia automática)
+   -Regras:
+    -Deve ser única;
+    -Nao pode mudar nunca;
+    -Não pode ser nula.
+
+  -Chave estrangeira (FK) (Foreign Key)
+
+  Pessoas:
+  : id    : cpf             : nome    : cidade  :
+  :  1    : 123.456.789-11  : Adriano : 1       :
+  :  2    : 123-555-777-12  : Karina  : 2       :
+  :  3    : 322-555-666-11  : Odínia  : 1        :  
+
+  Cidades:
+  : id  : Cidade        : UF  :
+  : 1   : Campo Grande  : 2   :
+  : 2   : Joinville     : 1   :
+
+  Estado:
+  : id  : Estado              :
+  : 1   : Santa Catarina      :
+  : 2   : Mato Grosso do Sul  :
+
+  -[DER](https://drive.google.com/file/d/1TDAqWSmC2OzxcUUUlnRUAag1sqM8NVIN/view?usp=sharing)
