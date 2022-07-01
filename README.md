@@ -358,3 +358,6 @@ nome pasta - abrir pasta.
   : 2   : Mato Grosso do Sul  :
 
   -[DER](https://drive.google.com/file/d/1TDAqWSmC2OzxcUUUlnRUAag1sqM8NVIN/view?usp=sharing)
+
+ **Aula dia 30/06**
+  -DER 2
