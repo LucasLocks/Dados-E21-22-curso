@@ -361,3 +361,6 @@ nome pasta - abrir pasta.
 
  **Aula dia 30/06**
   -DER 2
+
+ **Aula dia 01/07**
+  -Prova (Banco de dados)
