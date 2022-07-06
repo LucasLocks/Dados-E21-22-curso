@@ -6,10 +6,10 @@
 
 //**Objetivo: Desenvolver arquivo Readme com resumo das aulas durante o treinamento.**
 
-//**Ferramentas: Git, Github, Vscode**
+//**Ferramentas: Git, Github, Vscode, SQLITE, MYSQL**
 
 **Mini Curriculo Aluno:**
-Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando Técnico em Mecatrônica, Engenharia Mecânica e estou participando do programa de capacitação ENTRA 21-22.
+Meu nome é Lucas Locks, 20 anos , sou de Lages -SC. Atualmente estou cursando Técnico em Mecatrônica e estou participando do programa de capacitação ENTRA 21-22.
 
 **Mini Curriculo Instrutor Entra 21-22:**
 -Adriano Machado, 47 anos, Campo Grande, MS, Gestor de Tecnologia da Informação e Instrutor de Linguagens de Programação.
@@ -364,3 +364,48 @@ nome pasta - abrir pasta.
 
  **Aula dia 01/07**
   -Prova (Banco de dados)
+
+ **Aula dia 05/07**
+  -SQL e SQLITE:
+   -SQL = Linguagem de comunicação com o Banco de Dados;
+   -Criar e modificar:
+   -Bancos de Dados;
+   -Tabelas;
+   -Permissões de Acesso;
+   -Registros de dados;
+   -Gerenciar Transações: Confirmar ou Desfazer.
+
+  -#CRIANDO UMA TABELA CHAMADA PESSOAS E UTILIZANDO A DECLARAÇÃO CREATE.
+    CREATE TABLE PESSOAS (
+      #Cria o Atributo ID do tipo INTEGER, (PK), Auto Incremento.
+      ID INTEGER PRIMARY KEY AUTOINCREMENT,
+      #Criando um atributo CPF do tipo TEXT
+      CPF TEXT,
+      #Cria atributo nome do tipo TEXT não aceita nulo. (null vai permitir nulos)
+      NOME TEXT NOT NULL,
+      #Cria atributo IDADE tipo Integer, INT ou inteiro.
+      IDADE INTEGER
+    )
+
+  -INSERT inserir dados em uma entidade:
+   -INSERT INTO PESSOAS(CPF, NOME, IDADE)
+   VALUES
+    ('123.456.789-00', 'ADRIANO MACHADO', 47);
+    ('233.567.789-01', 'KARINA MACHADO', 45);
+
+  -.read pessoas.sql - este comando, iniciado com . (ponto) é um comando do SQlite.
+
+  -CUIDADO COM OS COMANDOS UPDATE E DELETE:
+   #Atualizando o salario da pessoa do ID 2 na tabela PESSOAS.
+   UPDATE PESSOAS
+    SET SALARIO=10.00
+    WHERE ID=2 ;
+
+  -CUIDADO COM ESQUECIMENTOS WHERE!
+  #Nesta condição acima alteramos todos os registros da base, pois esquecemos de colocar o WHERE
+   UPDATE PESSOAS
+   SET SALARIO=10.00;
+
+  -Vamos fazer um delete:
+   SELECT * FROM PESSOAS WHERE ID = 2;
+   DELETE   FROM PESSOAS WHERE ID = 2;
