@@ -409,3 +409,74 @@ nome pasta - abrir pasta.
   -Vamos fazer um delete:
    SELECT * FROM PESSOAS WHERE ID = 2;
    DELETE   FROM PESSOAS WHERE ID = 2;
+
+  **Aula dia 07/07**
+  -SELECT:
+   -SELECT É USADO PARA SELECIONAR DADOS RESULT-SET ou CONJUNTO DE DADOS;
+   -CRIAMOS O ARQUIVO CIDADES.SQL;
+   -CRIAMOS O ARQUIVO modulo04.sql com todos os registros necessários.
+
+  -SELECT DISTINCT
+  
+  -SELECT --> WHERE:
+   -: =     : igual a;
+   -: <> != :   diferente de ou não igual a;
+   -: >     : menor que;
+   -: <     : maior que;
+   -: <=    : menor ou igual;
+   -: >=    : ou igual
+
+  -Operadores Lógicos:
+   -: IN        : Retorna 1 se o valor testado estiver na lista;
+   -: LIKE      : Retorna 1 se o valor testado coincidir com o padrão passado;
+   -: AND       : Retorna 1 se as duas expressões testadas forem 1;
+   -: OR        : Retorna 1 se uma das duas expressões testadas forem 1;
+   -: BETWEEN   : Retorna 1 se o valor testado estiver no intervalo passado
+
+  -Order by (ORDENA POR):
+   -Ex01: SELECT PESSOA_IDADE,PESSOA_NOME FROM PESSOAS ORDER BY PESSOA_IDADE;
+   -EX02: SELECT PESSOA_IDADE,PESSOA_NOME FROM PESSOAS ORDER BY PESSOA_IDADE DESC;
+
+  -Funções embutidas:
+  : FUNÇÃO        :   DESCRIÇÃO
+  : AVG           :   Retorna o valor médio do grupo;
+  : MIN           :   Retorna o valor mínimo do grupo;
+  : MAX           :   Retorna o valor máximo do grupo;
+  : SUM           :   Retorna a soma;
+  : COUNT         :   Retorna o numero de linhas da tabela;
+  EX:
+   -SELECT avg(PESSOA_IDADE) FROM PESSOAS;
+   -SELECT min(PESSOA_IDADE) FROM PESSOAS;
+   -SELECT max(PESSOA_IDADE) FROM PESSOAS;
+   -SELECT sum(PESSOA_IDADE) FROM PESSOAS;
+   -SELECT count(*) FROM PESSOAS;
+
+  -Agrupamento:
+   -GROUP BY EX:
+    -SELECT PESSOA_IDADE, count(PESSOA_NOME) FROM PESSOAS GROUP BY PESSOA_IDADE;
+    -Resultado:
+     18|2
+     20|1
+     22|1
+     47|2
+     80|1
+    - O exemplo acima mostra uma idade e quantas pessoas tem essa idade na tabela PESSOAS;
+
+  -Junção com WHERE:
+  -EX:
+   SELECT
+      CIDADES.CIDADES_NOME,
+      PESSOAS.PESSOA_NOME,
+      PESSOAS.PESSOA_IDADE
+   FROM
+      PESSOAS,CIDADES
+   WHERE
+      PESSOAS.PESSOA_CIDADES_ID = CIDADES.CIDADES_ID;
+  -Resultado:
+  Campo Grande  |Adriano  |47
+  Florianópolis |Rodolfo  |47
+  Blumenau      |Carlos   |80
+  Lages         |Lucas    |20
+  Florianópolis |Pedro    |18
+  Blumenau      |Maria    |18
+  Lages         |Maria    |22
