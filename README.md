@@ -480,3 +480,9 @@ nome pasta - abrir pasta.
   Florianópolis |Pedro    |18
   Blumenau      |Maria    |18
   Lages         |Maria    |22
+
+  **Aula dia 08/07**
+   -Inicialização exercício 200
+
+  **Aula dia 12/07**
+   -Finalização exercício 200
