@@ -486,3 +486,44 @@ nome pasta - abrir pasta.
 
   **Aula dia 12/07**
    -Finalização exercício 200
+
+  **Aula dia 14/07**
+   -CLIENT => SERVER
+    -Mysql/MariaDB
+    -Oracle
+    -PostgreSQL
+    -(Esforçam: Dados compartilhados em ambientes corporativos)
+    -Escalabilidade
+    -Simultaneidade
+    -Centralização
+    -Controle
+
+   -SQLITE
+    -Armazenar dados localmente
+    -Economia
+    -Eficiência
+    -Confiabilidade
+    -Independência
+    -Simplicidade.
+    -SQLite não compete com os bancos de dados Client/Server fopen()
+
+  -Situações em que o SQLite funciona bem:
+   -Dispositivos Incorporados (Embedded devices);
+   -Internet das Coisas IOT
+
+  -Client/Server -> Datacenter
+  -SQLite -> dispositivos
+
+  -Situações em que um RDBMS client/server pode funcionar melhor:
+   -Aplicativos Client/Server;
+   -Sites de alto volume;
+   -Conjuntos de dados muito grandes;
+   -Alta simultaneidade
+
+  -Lista de verificação para escolher o melhor mecanismo de banco de dados para a sua aplicação.
+   -Escolha cliente servidor se:
+    -Os Dados são separados do aplicativo por uma rede?;
+    -Muitos escritores simultâneos?;
+    -Dados tipo XXG?
+  -Caso contrario:
+   -Escolha SQLITE
