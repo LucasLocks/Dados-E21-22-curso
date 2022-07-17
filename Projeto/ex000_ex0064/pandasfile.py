@@ -27,10 +27,10 @@ Este arquivo aqui é um exemplo de configuração CSV (Tanto faz online ou local
 Url da planilha (compartilhar para o mundo)
 
     Clicar em:    
-        Arquivo | publicar na web | pessoas (escolhar a pasta pessoas)
-    Selecionar:  Planilha(aba) + formatco CSV  
-    Selecionar:     republicar automaticamente quando ouver alterações [x]
-    NÂO selecionar: restringer acesso [ ]
+        Arquivo | publicar na web | pessoas (escolha a pasta pessoas)
+    Selecionar:  Planilha(aba) + formato CSV  
+    Selecionar:     republicar automaticamente quando houver alterações [x]
+    NÂO selecionar: restringir acesso [ ]
 
 
 Planilha compartilhada via google sheets:

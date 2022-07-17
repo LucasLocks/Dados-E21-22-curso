@@ -6,10 +6,10 @@
 
 //**Objetivo: Desenvolver arquivo Readme com resumo das aulas durante o treinamento.**
 
-//**Ferramentas: Git, Github, Vscode**
+//**Ferramentas: Git, Github, Vscode, SQLITE, MYSQL**
 
 **Mini Curriculo Aluno:**
-Meu nome é Lucas Locks, 19 anos , sou de Lages -SC. Atualmente estou cursando Técnico em Mecatrônica, Engenharia Mecânica e estou participando do programa de capacitação ENTRA 21-22.
+Meu nome é Lucas Locks, 20 anos , sou de Lages -SC. Atualmente estou cursando Técnico em Mecatrônica e estou participando do programa de capacitação ENTRA 21-22.
 
 **Mini Curriculo Instrutor Entra 21-22:**
 -Adriano Machado, 47 anos, Campo Grande, MS, Gestor de Tecnologia da Informação e Instrutor de Linguagens de Programação.
@@ -248,4 +248,282 @@ nome pasta - abrir pasta.
  **Aula dia 07/06**
   -[exercício77](Projeto/ex065_099/ex077.py)
   -[exercício78](Projeto/ex065_099/ex078.py)
+
+ **Aula dia 09/06**
+  -[exercício81](Projeto/ex065_099/ex081.py)
+  -[exercício84](Projeto/ex065_099/ex084.py)
+
+ **Aula dia 10/06**
+  -[exercício082](Projeto/ex065_099/ex082.py)
+  -[dict.clear](Projeto/metodos_dicionario/dict.clear.py)
+  -[dict.copy](Projeto/metodos_dicionario/dict.copy.py)
+  -[dict.fromkey](Projeto/metodos_dicionario/dict.fromkeys.py)
+  -[dict.get](Projeto/metodos_dicionario/dict.get.py)
+  -[dict.items](Projeto/metodos_dicionario/dict.items.py)
+  -[dict.keys_dict.values](Projeto/metodos_dicionario/dict.keys_dict.values.py)
+  -[dict.pop_dic.popitem](Projeto/metodos_dicionario/dict.pop_dic.popitem.py)
+  -[dict.setdefault](Projeto/metodos_dicionario/dict.setdefault.py)
+  -[dict.update](Projeto/metodos_dicionario/dict.update.py)
+  -[funcaodel](Projeto/metodos_dicionario/funcaodel.py)
+  -[list.append](Projeto/metodos_lista/list.append.py)
+  -[list.clear](Projeto/metodos_lista/list.clear.py)
+  -[list.copy](Projeto/metodos_lista/list.copy.py)
+  -[list.extend](Projeto/metodos_lista/list.extend.py)
+  -[list.index](Projeto/metodos_lista/list.index.py)
+  -[list.insert](Projeto/metodos_lista/list.insert.py)
+  -[list.pop](Projeto/metodos_lista/list.pop.py)
+  -[list.remove](Projeto/metodos_lista/list.remove.py)
+  -[list.reverse](Projeto/metodos_lista/list.reverse.py)
+
+ **Aula dia 14/06**
+  -[exercício082b](Projeto/ex065_099/ex082b.py)
+
+ **Aula dia 21/06**
+  -[exercício083](Projeto/ex065_099/ex083.py)
+  -[exercício085](Projeto/ex065_099/ex085.py)
+  -[exercício086](Projeto/ex065_099/ex086.py)
+  -[exercício087](Projeto/ex065_099/ex087.py)
+  -[exercício088](Projeto/ex065_099/ex088.py)
+
+ **Aula dia 23/06**
+  -[exercício090](Projeto/ex065_099/ex090.py)
+  -[exercício091](Projeto/ex065_099/ex091.py)
+  -[exercício092](Projeto/ex065_099/ex092.py)
+  -[exercício093](Projeto/ex065_099/ex093.py)
+  -[exercício094](Projeto/ex065_099/ex094.py)
+  -[exercício095](Projeto/ex065_099/ex095.py)
+  -[exercício096](Projeto/ex065_099/ex096.py)
+
+ **Aula dia 24/06**
+  -[exercício097](Projeto/ex065_099/ex097.py)
+  -[exercício098](Projeto/ex065_099/ex098.py)
+  -[exercício099](Projeto/ex065_099/ex099.py)
+
+ **Aula dia 28/06**
+  -O que é Banco de Dados:
+   -Conjunto de informações organizadas em um formato onde os dados possam ser facilmente:
+    -Armazenados.
+    -gerenciados.
+    -atualizados.
+    -recuperados.
+  -Tipos de Bancos de Dados:
+   -Categorias (duas):
+    -Banco de dados Relacional
+    -Banco de dados Não relacional (NoSQL)
+
+  -Estrutura de um Banco de Dados:
+   -Banco de Dados Relacional: Caracterizado pela forma como os dados são organizados.
+   -Tabelas respeitam um SCHEMA. Determina como as tabelas devem ser.
+   -Tabelas ou Entidade.
+    : id    : cpf             : nome    : idade :
+    :  1    : 123.456.789-11  : Adriano : 18    :
+    :  2    : 123-555-777-12  : Karina  : 40    :
+   -Colunas ou Atributos.
+   -Linhas ou Tuplas.
+
+  -Tipos de Dados:
+   -Text;
+   -Integer;
+   -Real;
+   -Null.
+   -[exemplo](https://www.sqlite.org/datatype3.html)
+
+  -Chave Primaria: PK Primary Key - Ela serve para definir exclusividades
+  dentro de uma tabela. Cada linha de nossa tabela é única, PK. Só podemos
+  definir uma única coluna dentro da tabela como PK. Uma chave primaria pode
+  ser com uma única coluna ou composta por 2 colunas de nossa tabela.
+
+  -ID Abreviação de Identificação ID (criar uma sequencia automática)
+   -Regras:
+    -Deve ser única;
+    -Nao pode mudar nunca;
+    -Não pode ser nula.
+
+  -Chave estrangeira (FK) (Foreign Key)
+
+  Pessoas:
+  : id    : cpf             : nome    : cidade  :
+  :  1    : 123.456.789-11  : Adriano : 1       :
+  :  2    : 123-555-777-12  : Karina  : 2       :
+  :  3    : 322-555-666-11  : Odínia  : 1        :  
+
+  Cidades:
+  : id  : Cidade        : UF  :
+  : 1   : Campo Grande  : 2   :
+  : 2   : Joinville     : 1   :
+
+  Estado:
+  : id  : Estado              :
+  : 1   : Santa Catarina      :
+  : 2   : Mato Grosso do Sul  :
+
+  -[DER](https://drive.google.com/file/d/1TDAqWSmC2OzxcUUUlnRUAag1sqM8NVIN/view?usp=sharing)
+
+ **Aula dia 30/06**
+  -DER 2
+
+ **Aula dia 01/07**
+  -Prova (Banco de dados)
+
+ **Aula dia 05/07**
+  -SQL e SQLITE:
+   -SQL = Linguagem de comunicação com o Banco de Dados;
+   -Criar e modificar:
+   -Bancos de Dados;
+   -Tabelas;
+   -Permissões de Acesso;
+   -Registros de dados;
+   -Gerenciar Transações: Confirmar ou Desfazer.
+
+  -#CRIANDO UMA TABELA CHAMADA PESSOAS E UTILIZANDO A DECLARAÇÃO CREATE.
+    CREATE TABLE PESSOAS (
+      #Cria o Atributo ID do tipo INTEGER, (PK), Auto Incremento.
+      ID INTEGER PRIMARY KEY AUTOINCREMENT,
+      #Criando um atributo CPF do tipo TEXT
+      CPF TEXT,
+      #Cria atributo nome do tipo TEXT não aceita nulo. (null vai permitir nulos)
+      NOME TEXT NOT NULL,
+      #Cria atributo IDADE tipo Integer, INT ou inteiro.
+      IDADE INTEGER
+    )
+
+  -INSERT inserir dados em uma entidade:
+   -INSERT INTO PESSOAS(CPF, NOME, IDADE)
+   VALUES
+    ('123.456.789-00', 'ADRIANO MACHADO', 47);
+    ('233.567.789-01', 'KARINA MACHADO', 45);
+
+  -.read pessoas.sql - este comando, iniciado com . (ponto) é um comando do SQlite.
+
+  -CUIDADO COM OS COMANDOS UPDATE E DELETE:
+   #Atualizando o salario da pessoa do ID 2 na tabela PESSOAS.
+   UPDATE PESSOAS
+    SET SALARIO=10.00
+    WHERE ID=2 ;
+
+  -CUIDADO COM ESQUECIMENTOS WHERE!
+  #Nesta condição acima alteramos todos os registros da base, pois esquecemos de colocar o WHERE
+   UPDATE PESSOAS
+   SET SALARIO=10.00;
+
+  -Vamos fazer um delete:
+   SELECT * FROM PESSOAS WHERE ID = 2;
+   DELETE   FROM PESSOAS WHERE ID = 2;
+
+  **Aula dia 07/07**
+  -SELECT:
+   -SELECT É USADO PARA SELECIONAR DADOS RESULT-SET ou CONJUNTO DE DADOS;
+   -CRIAMOS O ARQUIVO CIDADES.SQL;
+   -CRIAMOS O ARQUIVO modulo04.sql com todos os registros necessários.
+
+  -SELECT DISTINCT
   
+  -SELECT --> WHERE:
+   -: =     : igual a;
+   -: <> != :   diferente de ou não igual a;
+   -: >     : menor que;
+   -: <     : maior que;
+   -: <=    : menor ou igual;
+   -: >=    : ou igual
+
+  -Operadores Lógicos:
+   -: IN        : Retorna 1 se o valor testado estiver na lista;
+   -: LIKE      : Retorna 1 se o valor testado coincidir com o padrão passado;
+   -: AND       : Retorna 1 se as duas expressões testadas forem 1;
+   -: OR        : Retorna 1 se uma das duas expressões testadas forem 1;
+   -: BETWEEN   : Retorna 1 se o valor testado estiver no intervalo passado
+
+  -Order by (ORDENA POR):
+   -Ex01: SELECT PESSOA_IDADE,PESSOA_NOME FROM PESSOAS ORDER BY PESSOA_IDADE;
+   -EX02: SELECT PESSOA_IDADE,PESSOA_NOME FROM PESSOAS ORDER BY PESSOA_IDADE DESC;
+
+  -Funções embutidas:
+  : FUNÇÃO        :   DESCRIÇÃO
+  : AVG           :   Retorna o valor médio do grupo;
+  : MIN           :   Retorna o valor mínimo do grupo;
+  : MAX           :   Retorna o valor máximo do grupo;
+  : SUM           :   Retorna a soma;
+  : COUNT         :   Retorna o numero de linhas da tabela;
+  EX:
+   -SELECT avg(PESSOA_IDADE) FROM PESSOAS;
+   -SELECT min(PESSOA_IDADE) FROM PESSOAS;
+   -SELECT max(PESSOA_IDADE) FROM PESSOAS;
+   -SELECT sum(PESSOA_IDADE) FROM PESSOAS;
+   -SELECT count(*) FROM PESSOAS;
+
+  -Agrupamento:
+   -GROUP BY EX:
+    -SELECT PESSOA_IDADE, count(PESSOA_NOME) FROM PESSOAS GROUP BY PESSOA_IDADE;
+    -Resultado:
+     18|2
+     20|1
+     22|1
+     47|2
+     80|1
+    - O exemplo acima mostra uma idade e quantas pessoas tem essa idade na tabela PESSOAS;
+
+  -Junção com WHERE:
+  -EX:
+   SELECT
+      CIDADES.CIDADES_NOME,
+      PESSOAS.PESSOA_NOME,
+      PESSOAS.PESSOA_IDADE
+   FROM
+      PESSOAS,CIDADES
+   WHERE
+      PESSOAS.PESSOA_CIDADES_ID = CIDADES.CIDADES_ID;
+  -Resultado:
+  Campo Grande  |Adriano  |47
+  Florianópolis |Rodolfo  |47
+  Blumenau      |Carlos   |80
+  Lages         |Lucas    |20
+  Florianópolis |Pedro    |18
+  Blumenau      |Maria    |18
+  Lages         |Maria    |22
+
+  **Aula dia 08/07**
+   -Inicialização exercício 200
+
+  **Aula dia 12/07**
+   -Finalização exercício 200
+
+  **Aula dia 14/07**
+   -CLIENT => SERVER
+    -Mysql/MariaDB
+    -Oracle
+    -PostgreSQL
+    -(Esforçam: Dados compartilhados em ambientes corporativos)
+    -Escalabilidade
+    -Simultaneidade
+    -Centralização
+    -Controle
+
+   -SQLITE
+    -Armazenar dados localmente
+    -Economia
+    -Eficiência
+    -Confiabilidade
+    -Independência
+    -Simplicidade.
+    -SQLite não compete com os bancos de dados Client/Server fopen()
+
+  -Situações em que o SQLite funciona bem:
+   -Dispositivos Incorporados (Embedded devices);
+   -Internet das Coisas IOT
+
+  -Client/Server -> Datacenter
+  -SQLite -> dispositivos
+
+  -Situações em que um RDBMS client/server pode funcionar melhor:
+   -Aplicativos Client/Server;
+   -Sites de alto volume;
+   -Conjuntos de dados muito grandes;
+   -Alta simultaneidade
+
+  -Lista de verificação para escolher o melhor mecanismo de banco de dados para a sua aplicação.
+   -Escolha cliente servidor se:
+    -Os Dados são separados do aplicativo por uma rede?;
+    -Muitos escritores simultâneos?;
+    -Dados tipo XXG?
+  -Caso contrario:
+   -Escolha SQLITE
