@@ -1,62 +1,62 @@
 # Dados-E21-22-curso
 
-//**Autor: Lucas Locks**
+ //**Autor: Lucas Locks**
 
-//**Status: Desenvolvimento**
+ //**Status: Desenvolvimento**
 
-//**Objetivo: Desenvolver arquivo Readme com resumo das aulas durante o treinamento.**
+ //**Objetivo: Desenvolver arquivo Readme com resumo das aulas durante o treinamento.**
 
-//**Ferramentas: Git, Github, Vscode, SQLITE, MYSQL**
+ //**Ferramentas: Git, Github, Vscode, SQLITE, MYSQL**
 
-**Mini Curriculo Aluno:**
-Meu nome é Lucas Locks, 20 anos , sou de Lages -SC. Atualmente estou cursando Técnico em Mecatrônica e estou participando do programa de capacitação ENTRA 21-22.
+ **Mini Curriculo Aluno:**
+  -Meu nome é Lucas Locks, 20 anos , sou de Lages -SC. Atualmente estou cursando Técnico em Mecatrônica e estou participando do programa de capacitação ENTRA 21-22.
 
-**Mini Curriculo Instrutor Entra 21-22:**
--Adriano Machado, 47 anos, Campo Grande, MS, Gestor de Tecnologia da Informação e Instrutor de Linguagens de Programação.
+ **Mini Curriculo Instrutor Entra 21-22:**
+  -Adriano Machado, 47 anos, Campo Grande, MS, Gestor de Tecnologia da Informação e Instrutor de Linguagens de Programação.
 
-**Aulas até o dia 25/04**
--Instalei Vscode;
--Frameworks Ágeis:
- -Scrum;
- -Kanban;
--Criar conta Github;
--Criar  1° repositório github.
+ **Aulas até o dia 25/04**
+  -Instalei Vscode;
+  -Frameworks Ágeis:
+   -Scrum;
+   -Kanban;
+  -Criar conta Github;
+  -Criar  1° repositório github.
 
-**Aula dia 26/04**
--Sincronizar repositório github;
--Instalar github desktop;
--Instalar git;
--Criar Arquivo Readme;
--Clonar arquivo Readme do colega.
+ **Aula dia 26/04**
+  -Sincronizar repositório github;
+  -Instalar github desktop;
+  -Instalar git;
+  -Criar Arquivo Readme;
+  -Clonar arquivo Readme do colega.
 
-**Aula dia 27/04**
--Revisamos códigos do Git e do Prompt comando;
--Clonamos e editamos arquivo Readme dos colegas.
+ **Aula dia 27/04**
+  -Revisamos códigos do Git e do Prompt comando;
+  -Clonamos e editamos arquivo Readme dos colegas.
 
-**Códigos Github**
- git add . = Insere uma alteração no repositório local;
- git commit -m "nome alteração" = Data de fechamento com a descrição da definição;
- git push = envia do repositório local para a nuvem (github.com);
- git pull = baixar as mudanças (ou verificar se foram alterados).
+ **Códigos Github**
+  -git add . = Insere uma alteração no repositório local;
+  -git commit -m "nome alteração" = Data de fechamento com a descrição da definição;
+  -git push = envia do repositório local para a nuvem (github.com);
+  -git pull = baixar as mudanças (ou verificar se foram alterados).
 
-**Códigos Prompt de Comando**
-mkdir – Criar uma nova pasta no diretório;
-cp – Copia arquivos e diretórios;
-cd .. - Sair da pasta atual;
-nome pasta - abrir pasta.
+ **Códigos Prompt de Comando**
+  -mkdir – Criar uma nova pasta no diretório;
+  -cp – Copia arquivos e diretórios;
+  -cd .. - Sair da pasta atual;
+  -nome pasta - abrir pasta.
 
-**Aula dia 28/04**
--Lógica de Programação;
- -Algoritmo Comer Pizza:
-  -Tenho dinheiro?
-  -Se sim:
-   -Em casa ou no local?
+ **Aula dia 28/04**
+  -Lógica de Programação;
+  -Algoritmo Comer Pizza:
+   -Tenho dinheiro?
+   -Se sim:
+    -Em casa ou no local?
     -Se em casa:
      -ligo para pizzaria;
      -Informo meu pedido e minhas informações (endereço,nome,etc);
      -aguardo a pizza chegar;
-      -Enquanto aguardo:
-       -Assisto Tv
+     -Enquanto aguardo:
+      -Assisto Tv
      -Pizza chegou;
      -Pago a pizza,
      -Como a pizza.
@@ -65,113 +65,113 @@ nome pasta - abrir pasta.
      -Pedir cardápio;
      -escolher sabores pizza;
      -aguardar pizza ficar pronta;
-      -Enquanto aguardo:
-       -Ficar mexendo celular.
+     -Enquanto aguardo:
+      -Ficar mexendo celular.
      -Pizza Pronta;
      -garçon trouxe a pizza;
      -comer pizza.
-  -Se não:
-   -Fico sem pizza.
+    -Se não:
+     -Fico sem pizza.
 
-**Aula dia 29/04**
--Introdução a Lógica;
--Introdução a IDE.
+ **Aula dia 29/04**
+  -Introdução a Lógica;
+  -Introdução a IDE.
 
-**Aula dia 02/05**
--Python;
- -Como fazer comentários;
- -Variáveis e constantes;
--Garbage Collector;
--Edentação;
+ **Aula dia 02/05**
+  -Python;
+   -Como fazer comentários;
+   -Variáveis e constantes;
+  -Garbage Collector;
+  -Edentação;
 
  **Aula dia 03/05**
- -Divisão de equipes;
- -Revisão de Git e Github;
+  -Divisão de equipes;
+  -Revisão de Git e Github
 
  **Aula dia 05/05**
- -[Portugol](https://portugol-webstudio.cubos.io/ide)
- -Algoritmos Sequenciais:
-  -Exemplos:
-   -Troca variáveis;
-   -Maioridade Penal;
-   -Altura Média;
-   -Loja de Ferramentas;
-   -Quantos dias.
+  -[Portugol](https://portugol-webstudio.cubos.io/ide)
+  -Algoritmos Sequenciais:
+   -Exemplos:
+    -Troca variáveis;
+    -Maioridade Penal;
+    -Altura Média;
+    -Loja de Ferramentas;
+    -Quantos dias.
   
  **Aula dia 06/05**
- -Exercícios Portugol:
-  -[exercício01](Projeto/Portugol/exercício_001.portugol)
-  -[exercício02](Projeto/Portugol/exercício_002.portugol)
-  -[exercício03](Projeto/Portugol/exercício_003.portugol)  
-  -[exercício04](Projeto/Portugol/exercício_004.portugol)
+  -Exercícios Portugol:
+   -[exercício01](Projeto/Portugol/exercício_001.portugol)
+   -[exercício02](Projeto/Portugol/exercício_002.portugol)
+   -[exercício03](Projeto/Portugol/exercício_003.portugol)  
+   -[exercício04](Projeto/Portugol/exercício_004.portugol)
 
  **Aula dia 09/05**
- -Revisão exercícios Portugol;
- -Laços de repetição;
- -[exercício05](Projeto/Portugol/exercício_005.portugol)
+  -Revisão exercícios Portugol;
+  -Laços de repetição;
+  -[exercício05](Projeto/Portugol/exercício_005.portugol)
 
  **Aula dia 10/05**
- -Exercícios Portugol:
-  -[exercício01b](Projeto/Portugol/exercício_001b.portugol)
-  -[exercício02b](Projeto/Portugol/exercício_002b.portugol)
-  -[exercício03b](Projeto/Portugol/Exercício_003b.portugol)
-  -[exercício04b](Projeto/Portugol/exercício_004b.portugol)
-  -[exercício05b](Projeto/Portugol/exercício_005b.portugol)
+  -Exercícios Portugol:
+   -[exercício01b](Projeto/Portugol/exercício_001b.portugol)
+   -[exercício02b](Projeto/Portugol/exercício_002b.portugol)
+   -[exercício03b](Projeto/Portugol/Exercício_003b.portugol)
+   -[exercício04b](Projeto/Portugol/exercício_004b.portugol)
+   -[exercício05b](Projeto/Portugol/exercício_005b.portugol)
 
  **Aula Magna 11/05**
- -Foi mostrado o grande número de inscritos no Entra-21-22 e como os alunos atuais foram sortudos de serem selecionados. A cada vaga do treinamento, +/- 12 pessoas competiam pela mesma;
- -Motivação aos alunos do Entra-21;
- -Dois ex-alunos do Entra 21 contando suas história de vida, um deles trabalha na Ambev Tech e o outro é gerente da Unifique;
- -Apresentação da Carol Renaux sobre Marketing e padrão de perfil das redes sociais;
+  -Foi mostrado o grande número de inscritos no Entra-21-22 e como os alunos atuais foram sortudos de serem selecionados. A cada vaga do treinamento, +/- 12 pessoas competiam pela mesma;
+  -Motivação aos alunos do Entra-21;
+  -Dois ex-alunos do Entra 21 contando suas história de vida, um deles trabalha na Ambev Tech e o outro é gerente da Unifique;
+  -Apresentação da Carol Renaux sobre Marketing e padrão de perfil das redes sociais;
 
  **Aula dia 12/05**
- -[exercício06b](Projeto/Portugol/exercício_006b.portugol)
+  -[exercício06b](Projeto/Portugol/exercício_006b.portugol)
 
  **Aula dia 13/05**
- -Revisão Exercícios portugol.
+  -Revisão Exercícios portugol.
 
  **Aula dia 16/05**
- -Instalar Python 3.10;
- -Exercícios Python:
-  -[exercício01](Projeto/ex000_ex0064/ex001.py)
-  -[exercício02](Projeto/ex000_ex0064\ex002.py)
-  -[exercício03](Projeto/ex000_ex0064\ex003.py)
-  -[exercício04](Projeto/ex000_ex0064\ex004.py)
-  -[exercício05](Projeto/ex000_ex0064\ex005.py)
-  -[exercício06](Projeto/ex000_ex0064\ex006.py)
-  -[exercício07](Projeto/ex000_ex0064\ex007.py)
-  -[exercício08](Projeto/ex000_ex0064\ex008.py)
-  -[exercício09](Projeto/ex000_ex0064\ex009.py)
-  -[exercício010](Projeto/ex000_ex0064\ex010.py)
-  -[exercício011](Projeto/ex000_ex0064\ex011.py)
-  -[exercício012](Projeto/ex000_ex0064\ex012.py)
-  -[exercício013](Projeto/ex000_ex0064\ex013.py)
-  -[exercício014](Projeto/ex000_ex0064\ex014.py)
-  -[exercício015](Projeto/ex000_ex0064\ex015.py)
-  -[exercício016](Projeto/ex000_ex0064\ex016.py)
+  -Instalar Python 3.10;
+  -Exercícios Python:
+   -[exercício01](Projeto/ex000_ex0064/ex001.py)
+   -[exercício02](Projeto/ex000_ex0064\ex002.py)
+   -[exercício03](Projeto/ex000_ex0064\ex003.py)
+   -[exercício04](Projeto/ex000_ex0064\ex004.py)
+   -[exercício05](Projeto/ex000_ex0064\ex005.py)
+   -[exercício06](Projeto/ex000_ex0064\ex006.py)
+   -[exercício07](Projeto/ex000_ex0064\ex007.py)
+   -[exercício08](Projeto/ex000_ex0064\ex008.py)
+   -[exercício09](Projeto/ex000_ex0064\ex009.py)
+   -[exercício010](Projeto/ex000_ex0064\ex010.py)
+   -[exercício011](Projeto/ex000_ex0064\ex011.py)
+   -[exercício012](Projeto/ex000_ex0064\ex012.py)
+   -[exercício013](Projeto/ex000_ex0064\ex013.py)
+   -[exercício014](Projeto/ex000_ex0064\ex014.py)
+   -[exercício015](Projeto/ex000_ex0064\ex015.py)
+   -[exercício016](Projeto/ex000_ex0064\ex016.py)
 
  **Aula dia 17/05**
- -Exercícios Python:
-  -[exercício017](Projeto/ex000_ex0064/ex017.py)
-  -[exercício018](Projeto/ex000_ex0064/ex018.py)
-  -[exercício019](Projeto/ex000_ex0064/ex019.py)
-  -[exercício020](Projeto/ex000_ex0064/ex020.py)
-  -[exercício021](Projeto/ex000_ex0064/ex021.py)
-  -[exercício022](Projeto/ex000_ex0064/ex022.py)
-  -[exercício023](Projeto/ex000_ex0064/ex023.py)
-  -[exercício024](Projeto/ex000_ex0064/ex024.py)
-  -[exercício025](Projeto/ex000_ex0064/ex025.py)
-  -[exercício026](Projeto/ex000_ex0064/ex026.py)
-  -[exercício027](Projeto/ex000_ex0064/ex027.py)
-  -[exercício028](Projeto/ex000_ex0064/ex028.py)
-  -[exercício029](Projeto/ex000_ex0064/ex029.py)
-  -[exercício030](Projeto/ex000_ex0064/ex030.py)
-  -[exercício031](Projeto/ex000_ex0064/ex031.py)
-  -[exercício032](Projeto/ex000_ex0064/ex032.py)
-  -[exercício033](Projeto/ex000_ex0064/ex033.py)
-  -[exercício034](Projeto/ex000_ex0064/ex034.py)
-  -[exercício035](Projeto/ex000_ex0064/ex035.py)
-  -[exercício036](Projeto/ex000_ex0064/ex036.py)
+  -Exercícios Python:
+   -[exercício017](Projeto/ex000_ex0064/ex017.py)
+   -[exercício018](Projeto/ex000_ex0064/ex018.py)
+   -[exercício019](Projeto/ex000_ex0064/ex019.py)
+   -[exercício020](Projeto/ex000_ex0064/ex020.py)
+   -[exercício021](Projeto/ex000_ex0064/ex021.py)
+   -[exercício022](Projeto/ex000_ex0064/ex022.py)
+   -[exercício023](Projeto/ex000_ex0064/ex023.py)
+   -[exercício024](Projeto/ex000_ex0064/ex024.py)
+   -[exercício025](Projeto/ex000_ex0064/ex025.py)
+   -[exercício026](Projeto/ex000_ex0064/ex026.py)
+   -[exercício027](Projeto/ex000_ex0064/ex027.py)
+   -[exercício028](Projeto/ex000_ex0064/ex028.py)
+   -[exercício029](Projeto/ex000_ex0064/ex029.py)
+   -[exercício030](Projeto/ex000_ex0064/ex030.py)
+   -[exercício031](Projeto/ex000_ex0064/ex031.py)
+   -[exercício032](Projeto/ex000_ex0064/ex032.py)
+   -[exercício033](Projeto/ex000_ex0064/ex033.py)
+   -[exercício034](Projeto/ex000_ex0064/ex034.py)
+   -[exercício035](Projeto/ex000_ex0064/ex035.py)
+   -[exercício036](Projeto/ex000_ex0064/ex036.py)
 
  **Aula dia 19/05**
   -[exercício037](Projeto/ex000_ex0064/ex037.py)
@@ -375,7 +375,7 @@ nome pasta - abrir pasta.
    -Registros de dados;
    -Gerenciar Transações: Confirmar ou Desfazer.
 
-  -#CRIANDO UMA TABELA CHAMADA PESSOAS E UTILIZANDO A DECLARAÇÃO CREATE.
+   -#CRIANDO UMA TABELA CHAMADA PESSOAS E UTILIZANDO A DECLARAÇÃO CREATE.
     CREATE TABLE PESSOAS (
       #Cria o Atributo ID do tipo INTEGER, (PK), Auto Incremento.
       ID INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -387,99 +387,99 @@ nome pasta - abrir pasta.
       IDADE INTEGER
     )
 
-  -INSERT inserir dados em uma entidade:
-   -INSERT INTO PESSOAS(CPF, NOME, IDADE)
+   -INSERT inserir dados em uma entidade:
+    -INSERT INTO PESSOAS(CPF, NOME, IDADE)
    VALUES
     ('123.456.789-00', 'ADRIANO MACHADO', 47);
     ('233.567.789-01', 'KARINA MACHADO', 45);
 
-  -.read pessoas.sql - este comando, iniciado com . (ponto) é um comando do SQlite.
+   .read pessoas.sql - este comando, iniciado com . (ponto) é um comando do SQlite.
 
-  -CUIDADO COM OS COMANDOS UPDATE E DELETE:
+   -CUIDADO COM OS COMANDOS UPDATE E DELETE:
    #Atualizando o salario da pessoa do ID 2 na tabela PESSOAS.
    UPDATE PESSOAS
     SET SALARIO=10.00
     WHERE ID=2 ;
 
-  -CUIDADO COM ESQUECIMENTOS WHERE!
-  #Nesta condição acima alteramos todos os registros da base, pois esquecemos de colocar o WHERE
+   -CUIDADO COM ESQUECIMENTOS WHERE!
+   #Nesta condição acima alteramos todos os registros da base, pois esquecemos de colocar o WHERE
    UPDATE PESSOAS
    SET SALARIO=10.00;
 
-  -Vamos fazer um delete:
-   SELECT * FROM PESSOAS WHERE ID = 2;
-   DELETE   FROM PESSOAS WHERE ID = 2;
+   -Vamos fazer um delete:
+    SELECT * FROM PESSOAS WHERE ID = 2;
+    DELETE   FROM PESSOAS WHERE ID = 2;
 
   **Aula dia 07/07**
-  -SELECT:
-   -SELECT É USADO PARA SELECIONAR DADOS RESULT-SET ou CONJUNTO DE DADOS;
-   -CRIAMOS O ARQUIVO CIDADES.SQL;
-   -CRIAMOS O ARQUIVO modulo04.sql com todos os registros necessários.
+   -SELECT:
+    -SELECT É USADO PARA SELECIONAR DADOS RESULT-SET ou CONJUNTO DE DADOS;
+    -CRIAMOS O ARQUIVO CIDADES.SQL;
+    -CRIAMOS O ARQUIVO modulo04.sql com todos os registros necessários.
 
-  -SELECT DISTINCT
+   -SELECT DISTINCT
   
-  -SELECT --> WHERE:
-   -: =     : igual a;
-   -: <> != :   diferente de ou não igual a;
-   -: >     : menor que;
-   -: <     : maior que;
-   -: <=    : menor ou igual;
-   -: >=    : ou igual
+   -SELECT --> WHERE:
+    -: =     : igual a;
+    -: <> != :   diferente de ou não igual a;
+    -: >     : menor que;
+    -: <     : maior que;
+    -: <=    : menor ou igual;
+    -: >=    : ou igual
 
-  -Operadores Lógicos:
-   -: IN        : Retorna 1 se o valor testado estiver na lista;
-   -: LIKE      : Retorna 1 se o valor testado coincidir com o padrão passado;
-   -: AND       : Retorna 1 se as duas expressões testadas forem 1;
-   -: OR        : Retorna 1 se uma das duas expressões testadas forem 1;
-   -: BETWEEN   : Retorna 1 se o valor testado estiver no intervalo passado
+   -Operadores Lógicos:
+    -: IN        : Retorna 1 se o valor testado estiver na lista;
+    -: LIKE      : Retorna 1 se o valor testado coincidir com o padrão passado;
+    -: AND       : Retorna 1 se as duas expressões testadas forem 1;
+    -: OR        : Retorna 1 se uma das duas expressões testadas forem 1;
+    -: BETWEEN   : Retorna 1 se o valor testado estiver no intervalo passado
 
-  -Order by (ORDENA POR):
-   -Ex01: SELECT PESSOA_IDADE,PESSOA_NOME FROM PESSOAS ORDER BY PESSOA_IDADE;
-   -EX02: SELECT PESSOA_IDADE,PESSOA_NOME FROM PESSOAS ORDER BY PESSOA_IDADE DESC;
+   -Order by (ORDENA POR):
+    -Ex01: SELECT PESSOA_IDADE,PESSOA_NOME FROM PESSOAS ORDER BY PESSOA_IDADE;
+    -EX02: SELECT PESSOA_IDADE,PESSOA_NOME FROM PESSOAS ORDER BY PESSOA_IDADE DESC;
 
-  -Funções embutidas:
-  : FUNÇÃO        :   DESCRIÇÃO
-  : AVG           :   Retorna o valor médio do grupo;
-  : MIN           :   Retorna o valor mínimo do grupo;
-  : MAX           :   Retorna o valor máximo do grupo;
-  : SUM           :   Retorna a soma;
-  : COUNT         :   Retorna o numero de linhas da tabela;
-  EX:
-   -SELECT avg(PESSOA_IDADE) FROM PESSOAS;
-   -SELECT min(PESSOA_IDADE) FROM PESSOAS;
-   -SELECT max(PESSOA_IDADE) FROM PESSOAS;
-   -SELECT sum(PESSOA_IDADE) FROM PESSOAS;
-   -SELECT count(*) FROM PESSOAS;
+   -Funções embutidas:
+   : FUNÇÃO        :   DESCRIÇÃO
+   : AVG           :   Retorna o valor médio do grupo;
+   : MIN           :   Retorna o valor mínimo do grupo;
+   : MAX           :   Retorna o valor máximo do grupo;
+   : SUM           :   Retorna a soma;
+   : COUNT         :   Retorna o numero de linhas da tabela;
+   EX:
+    -SELECT avg(PESSOA_IDADE) FROM PESSOAS;
+    -SELECT min(PESSOA_IDADE) FROM PESSOAS;
+    -SELECT max(PESSOA_IDADE) FROM PESSOAS;
+    -SELECT sum(PESSOA_IDADE) FROM PESSOAS;
+    -SELECT count(*) FROM PESSOAS;
 
-  -Agrupamento:
-   -GROUP BY EX:
-    -SELECT PESSOA_IDADE, count(PESSOA_NOME) FROM PESSOAS GROUP BY PESSOA_IDADE;
-    -Resultado:
-     18|2
-     20|1
-     22|1
-     47|2
-     80|1
-    - O exemplo acima mostra uma idade e quantas pessoas tem essa idade na tabela PESSOAS;
+   -Agrupamento:
+    -GROUP BY EX:
+     -SELECT PESSOA_IDADE, count(PESSOA_NOME) FROM PESSOAS GROUP BY PESSOA_IDADE;
+     -Resultado:
+      18|2
+      20|1
+      22|1
+      47|2
+      80|1
+    -O exemplo acima mostra uma idade e quantas pessoas tem essa idade na tabela PESSOAS;
 
-  -Junção com WHERE:
-  -EX:
-   SELECT
+   -Junção com WHERE:
+   -EX:
+    SELECT
       CIDADES.CIDADES_NOME,
       PESSOAS.PESSOA_NOME,
       PESSOAS.PESSOA_IDADE
-   FROM
+    FROM
       PESSOAS,CIDADES
-   WHERE
+    WHERE
       PESSOAS.PESSOA_CIDADES_ID = CIDADES.CIDADES_ID;
-  -Resultado:
-  Campo Grande  |Adriano  |47
-  Florianópolis |Rodolfo  |47
-  Blumenau      |Carlos   |80
-  Lages         |Lucas    |20
-  Florianópolis |Pedro    |18
-  Blumenau      |Maria    |18
-  Lages         |Maria    |22
+    -Resultado:
+   Campo Grande  |Adriano  |47
+   Florianópolis |Rodolfo  |47
+   Blumenau      |Carlos   |80
+   Lages         |Lucas    |20
+   Florianópolis |Pedro    |18
+   Blumenau      |Maria    |18
+   Lages         |Maria    |22
 
   **Aula dia 08/07**
    -Inicialização exercício 200
@@ -507,23 +507,26 @@ nome pasta - abrir pasta.
     -Simplicidade.
     -SQLite não compete com os bancos de dados Client/Server fopen()
 
-  -Situações em que o SQLite funciona bem:
-   -Dispositivos Incorporados (Embedded devices);
-   -Internet das Coisas IOT
+   -Situações em que o SQLite funciona bem:
+    -Dispositivos Incorporados (Embedded devices);
+    -Internet das Coisas IOT
 
-  -Client/Server -> Datacenter
-  -SQLite -> dispositivos
+   -Client/Server -> Datacenter
+   -SQLite -> dispositivos
 
-  -Situações em que um RDBMS client/server pode funcionar melhor:
-   -Aplicativos Client/Server;
-   -Sites de alto volume;
-   -Conjuntos de dados muito grandes;
-   -Alta simultaneidade
+   -Situações em que um RDBMS client/server pode funcionar melhor:
+    -Aplicativos Client/Server;
+    -Sites de alto volume;
+    -Conjuntos de dados muito grandes;
+    -Alta simultaneidade
 
-  -Lista de verificação para escolher o melhor mecanismo de banco de dados para a sua aplicação.
+   -Lista de verificação para escolher o melhor mecanismo de banco de dados para a sua aplicação.
    -Escolha cliente servidor se:
     -Os Dados são separados do aplicativo por uma rede?;
     -Muitos escritores simultâneos?;
     -Dados tipo XXG?
-  -Caso contrario:
-   -Escolha SQLITE
+   -Caso contrario:
+    -Escolha SQLITE
+
+  **Aula dia 18/07**
+   -[desafio_calculadora](Projeto/calculadorades.py)
