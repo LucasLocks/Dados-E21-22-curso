@@ -4,8 +4,7 @@ class Calculadora:
 
     def __init__(self, num1) -> None:
         self.num1 = num1
-        _f = str(num1)
-        self.result = eval(_f)
+        self.result = eval(num1)
 
 
 def calcula():

@@ -529,4 +529,9 @@
     -Escolha SQLITE
 
   **Aula dia 18/07**
-   -[desafio_calculadora](Projeto/calculadorades.py)
+   -[desafio_calculadora](Projeto/calculadoradesafio.py)
+
+  **Aula dia 02/08**
+   -Início do Projeto:
+    -Debate de ideias;
+    -Divisão das tarefas
