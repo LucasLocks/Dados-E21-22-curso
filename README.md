@@ -535,3 +535,27 @@
    -Início do Projeto:
     -Debate de ideias;
     -Divisão das tarefas
+
+  **Aula dia 04/08**
+   -Banco de Dados com Python;
+   -Introdução a conexão do Sqlite com Python:
+    -Como criar um novo Banco de Dados (Database) com Python;
+    -Como se conectar ao Database;
+    -Como Criar tabelas;
+    -Como Inserir Dados;
+    -Como selecionar os dados inseridos.
+
+   -Criando Tabelas com Python:
+    cur.execute("""
+    CREATE TABLE.... ();
+    """)
+
+   -Insert Into:
+    cur.execute("""
+    INSERT INTO .... ();
+    """)
+
+   -Seleção de dados:
+    -cur.fetchone() --> só o primeiro resultado;
+    -cur.fetchmany(2) --> os 2 primeiros;
+    -cur.fetchall() --> todos os resultados.
