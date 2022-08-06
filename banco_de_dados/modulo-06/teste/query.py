@@ -1,6 +1,6 @@
 import sqlite3
 
-cnx = sqlite3.connect('modulo06.sqlite3')
+cnx = sqlite3.connect('teste.sqlite3')
 
 cur = cnx.cursor()
 

@@ -559,3 +559,8 @@
     -cur.fetchone() --> só o primeiro resultado;
     -cur.fetchmany(2) --> os 2 primeiros;
     -cur.fetchall() --> todos os resultados.
+
+  **Aula dia 05/08**
+   -Exercício 200-2 SQLITE + PANDAS + RANDOM:
+    -[main.py](banco_de_dados/modulo-06/exer200-2/main.py)
+    -[query.py](banco_de_dados/modulo-06/exer200-2/query.py)
