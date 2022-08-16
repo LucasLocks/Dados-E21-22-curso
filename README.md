@@ -564,3 +564,6 @@
    -Exercício 200-2 SQLITE + PANDAS + RANDOM:
     -[main.py](banco_de_dados/modulo-06/exer200-2/main.py)
     -[query.py](banco_de_dados/modulo-06/exer200-2/query.py)
+
+  **Aula dia 15/08**
+   -Criação do gráfico do projeto
