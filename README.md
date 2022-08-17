@@ -567,3 +567,6 @@
 
   **Aula dia 15/08**
    -Criação do gráfico do projeto
+
+  **Aula dia 16/08**
+   -Mudando arquivo de sqlite para mysql
