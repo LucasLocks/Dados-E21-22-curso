@@ -6,7 +6,7 @@
 
  //**Objetivo: Desenvolver arquivo Readme com resumo das aulas durante o treinamento.**
 
- //**Ferramentas: Git, Github, Vscode, SQLITE, MYSQL**
+ //**Ferramentas: Git, Github, Trello(Scrum e Kanban), Vscode, SQLITE, MYSQL, Data Studio**
 
  **Mini Curriculo Aluno:**
   -Meu nome é Lucas Locks, 20 anos , sou de Lages -SC. Atualmente estou cursando Técnico em Mecatrônica e estou participando do programa de capacitação ENTRA 21-22.
@@ -570,3 +570,6 @@
 
   **Aula dia 16/08**
    -Mudando arquivo de sqlite para mysql
+
+  **Aula dia 22/08**
+  -Data Studio
